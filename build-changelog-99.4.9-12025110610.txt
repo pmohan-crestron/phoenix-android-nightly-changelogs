@@ -1,0 +1,11 @@
+Phoenix Android Nightly – Version 99.4.9-12025110610
+===========================================================
+Generated on:** 2025-11-06 16:32 UTC
+Branch:** HEAD
+Previous commit SHA:** 0a0d5927566435119939c821b8a54bf7ca7244da
+===========================================================
+
+c5240ba029 CHOME-92584 - Implement rapid home navigation bar. (#8645) (Domuta Darius, 2025-11-06 16:50:00 +0200)
+9d33832a6c Add the missing states for the rapid room Shades tile (#8648) (Alin Morariu, 2025-11-06 14:16:19 +0200)
+85e9201325 Add the missing states for the rapid room lighting tile (#8646) (Alin Morariu, 2025-11-06 10:36:09 +0200)
+f911cfe494 CHOME-91716 (continuation) RapidCameras: New version of the RapidCameras screen using MotionLayout + tweaks and cleanup (#8644) (Maks Melnychuk, 2025-11-06 07:54:58 +0200)
