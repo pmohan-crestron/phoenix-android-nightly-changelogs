@@ -1,0 +1,11 @@
+Phoenix Android Nightly – Version 99.4.9-12025110701
+===========================================================
+Generated on:** 2025-11-07 15:03 UTC
+Branch:** HEAD
+Previous commit SHA:** c5240ba029927bade807b31a4ea022fbbc90dc20
+===========================================================
+
+d03a6830bf Feature/add rapid room video tile missing states (#8653) (Alin Morariu, 2025-11-07 13:54:14 +0200)
+75b724ccfb CHOME-91716 (continuation) RapidCameras: smooth animations, only MotionLayout left, new shadows (#8649) (Maks Melnychuk, 2025-11-07 11:05:23 +0200)
+b22ebcd22b Rapid home drop shadows and small fixes. (#8651) (Domuta Darius, 2025-11-07 10:10:18 +0200)
+a4a5545e17 Feature/add rapid room pool and spa tile missing states (#8650) (Alin Morariu, 2025-11-07 09:55:22 +0200)
