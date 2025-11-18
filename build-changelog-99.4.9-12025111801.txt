@@ -1,0 +1,10 @@
+Phoenix Android Nightly – Version 99.4.9-12025111801
+===========================================================
+Generated on:** 2025-11-18 15:04 UTC
+Branch:** HEAD
+Previous commit SHA:** 91f4385d1d1839b5ddcb37c9a939b23dc09b5d8c
+===========================================================
+
+3f01de4839 [CHOME-99990] NVX implementation (#8674) (v-avisan, 2025-11-18 16:34:33 +0200)
+7b5c9b0088 Merge pull request #8673 from Crestron/CHOME-100327 (Justin Aloor, 2025-11-18 12:12:02 +0530)
+cfda5dd1b9 CHOME-100327: TV preset channels are not displayed when pointed to QE environment (Justin Aloor, 2025-11-17 22:01:48 +0530)
