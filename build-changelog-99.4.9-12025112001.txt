@@ -1,0 +1,10 @@
+Phoenix Android Nightly – Version 99.4.9-12025112001
+===========================================================
+Generated on:** 2025-11-20 15:03 UTC
+Branch:** HEAD
+Previous commit SHA:** 3012d5125a8f0c047fb93816af3a60949864ca22
+===========================================================
+
+daa08c05de [CHOME-xxx] Add debuggable flag to staging builds (#8682) (Mike Westendorf, 2025-11-20 09:18:45 -0500)
+6cb84c09c7 CHOME-98584, CHOME-98585 (#8681) (Tanu Priya Mishra, 2025-11-20 13:50:15 +0530)
+1432651bae CHOME-91703 create camera video feed view (#8678) (Sravanth AV, 2025-11-19 16:29:27 -0600)
