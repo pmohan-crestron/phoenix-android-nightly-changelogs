@@ -1,0 +1,9 @@
+Phoenix Android Nightly – Version 99.4.9-12025112101
+===========================================================
+Generated on:** 2025-11-21 15:04 UTC
+Branch:** HEAD
+Previous commit SHA:** daa08c05de4a0259f449a9cf53b6639eab08c773
+===========================================================
+
+e465823bf2 Introduce the rapid bottom bar to the mobile build. (#8684) (Domuta Darius, 2025-11-21 11:39:31 +0200)
+c41de40519 [CHOME-100371] Extend functionality of IconToggleButton (#8683) (v-avisan, 2025-11-21 09:59:39 +0200)
