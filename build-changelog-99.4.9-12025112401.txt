@@ -1,0 +1,9 @@
+Phoenix Android Nightly – Version 99.4.9-12025112401
+===========================================================
+Generated on:** 2025-11-24 15:04 UTC
+Branch:** HEAD
+Previous commit SHA:** e465823bf264313d25cbe65998dd7e59634b57c8
+===========================================================
+
+176ec03dfd Merge pull request #8685 from Crestron/task/CHOME-101700-assembledebug-fails-with-error-in-tsrtester (pkamat-crestron, 2025-11-24 16:13:41 +0530)
+1761d23f0d CHOME-101700 :  ./gradlew assembleDebug fails with error in tsrtester (Prakash Kamat, 2025-11-24 15:15:36 +0530)
