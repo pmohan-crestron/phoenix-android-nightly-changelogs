@@ -1,0 +1,12 @@
+Phoenix Android Nightly – Version 99.4.9-12025112501
+===========================================================
+Generated on:** 2025-11-25 15:03 UTC
+Branch:** HEAD
+Previous commit SHA:** 176ec03dfd4eef7f81e13575555804d89c30b74a
+===========================================================
+
+65ffbd4a20 CHOME-100560 - Update time settings for the rapid screen clock. (#8687) (Domuta Darius, 2025-11-25 14:25:20 +0200)
+38fa1b8dcd Fix/room media tiles (#8691) (Alin Morariu, 2025-11-25 12:23:48 +0200)
+609d1f852f CHOME-10169 : Create Microphone screen UI module  (#8688) (pkamat-crestron, 2025-11-25 15:39:28 +0530)
+ad8db62aef Fix QAs and Services content layout paddings (#8689) (Alin Morariu, 2025-11-25 09:59:13 +0200)
+9fbd6daa1f CHOME-101475 - Feature Flag for Apple Reauth Added (#8686) (Tanu Priya Mishra, 2025-11-25 12:43:44 +0530)
