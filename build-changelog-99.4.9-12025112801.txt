@@ -1,0 +1,9 @@
+Phoenix Android Nightly – Version 99.4.9-12025112801
+===========================================================
+Generated on:** 2025-11-28 15:03 UTC
+Branch:** HEAD
+Previous commit SHA:** f95cb747eb4fb62dd665032cab6b156f9d249157
+===========================================================
+
+4b97be8bf7 CHOME-101590: RapidCameras - Create Camera Error state (#8697) (Maks Melnychuk, 2025-11-28 10:36:55 +0200)
+8073425c6a Remove the background schedulers when checking the rapid toggle. (#8698) (Domuta Darius, 2025-11-28 07:36:45 +0200)
