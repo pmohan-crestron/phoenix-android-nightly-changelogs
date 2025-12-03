@@ -1,0 +1,10 @@
+Phoenix Android Nightly – Version 99.4.9-12025120301
+===========================================================
+Generated on:** 2025-12-03 15:16 UTC
+Branch:** develop
+Previous commit SHA:** 3bb73b392a97ebd864867825ba8039d370a76fa9
+===========================================================
+
+959eb3338f Feature/rapid room garage door type tile (#8711) (Alin Morariu, 2025-12-03 15:57:42 +0200)
+e12d1be791 Merge pull request #8671 from Crestron/CHOME-97627-CameraDomainModel (Jordan Silver, 2025-12-02 22:12:22 -0500)
+7361d02cfa CHOME-97627: CameraDomainModel implementation Part 1 (jsilver, 2025-11-14 15:46:50 -0500)
