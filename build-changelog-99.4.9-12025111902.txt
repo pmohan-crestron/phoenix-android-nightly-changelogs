@@ -1,8 +1,0 @@
-Phoenix Android Nightly – Version 99.4.9-12025111902
-===========================================================
-Generated on:** 2025-11-19 15:05 UTC
-Branch:** HEAD
-Previous commit SHA:** 3f01de4839d4955627983daa2349504c8667b91e
-===========================================================
-
-3012d5125a Introduce the mobile rapid home screen. (#8680) (Domuta Darius, 2025-11-19 12:55:15 +0200)
