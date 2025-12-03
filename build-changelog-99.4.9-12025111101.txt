@@ -1,8 +1,0 @@
-Phoenix Android Nightly – Version 99.4.9-12025111101
-===========================================================
-Generated on:** 2025-11-11 15:05 UTC
-Branch:** HEAD
-Previous commit SHA:** 93a1a90f51adc8b939ef3134d171781d1d5f93a9
-===========================================================
-
-3b342fa82b CHOME-97920 Fix: A few room groups created from the setup app are not appearing in the whole house shade page - x70 panels (#8662) (Maks Melnychuk, 2025-11-11 15:28:20 +0200)
