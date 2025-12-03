@@ -1,8 +1,0 @@
-Phoenix Android Nightly – Version 99.4.9-12025111001
-===========================================================
-Generated on:** 2025-11-10 15:04 UTC
-Branch:** HEAD
-Previous commit SHA:** 29e68e14a85db4fc5c4f2a9969a29e6e88c57d95
-===========================================================
-
-93a1a90f51 Fix rapid room thermostat setpoint command (#8656) (Alin Morariu, 2025-11-10 11:35:43 +0200)
