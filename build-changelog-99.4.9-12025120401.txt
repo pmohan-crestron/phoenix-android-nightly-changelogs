@@ -1,0 +1,10 @@
+Phoenix Android Nightly – Version 99.4.9-12025120401
+===========================================================
+Generated on:** 2025-12-04 15:03 UTC
+Branch:** develop
+Previous commit SHA:** 959eb3338f1e2e2b555eeec2ad26726eea27354e
+===========================================================
+
+2949fb5e37 CHOME-102238 : [Breakage] Connecting to Home status bar in not shown on X70 panels, when the whole house power cycle executed (#8713) (pkamat-crestron, 2025-12-04 18:36:54 +0530)
+e150665616 Feature/rapid room gate door type tile (#8712) (Alin Morariu, 2025-12-04 09:15:15 +0200)
+af132e5bb2 CHOME:101592-Add and Update loading icon and error icon for camera feed (#8710) (Sravanth AV, 2025-12-03 20:25:25 -0600)
