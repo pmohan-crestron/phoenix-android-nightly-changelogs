@@ -1,0 +1,9 @@
+Phoenix Android Nightly – Version 99.4.9-12025120901
+===========================================================
+Generated on:** 2025-12-09 15:03 UTC
+Branch:** develop
+Previous commit SHA:** 5b2fc533e701762cedc4c83123bcf660d5b1f07f
+===========================================================
+
+fcdee1a3a5  CHOME-102716 - Added FF -FEATURE_FLAG_RAPID_CAMERA  and remove unused imports (#8716) (Sravanth AV, 2025-12-09 08:10:56 -0600)
+be1b4ba2e9 CHOME-101552: [Android] Create Microphone control widget (#8708) (Justin Aloor, 2025-12-09 17:38:47 +0530)
