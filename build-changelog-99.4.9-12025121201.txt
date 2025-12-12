@@ -1,0 +1,42 @@
+Phoenix Android Nightly – Version 99.4.9-12025121201
+===========================================================
+Generated on:** 2025-12-12 15:03 UTC
+Branch:** develop
+Previous commit SHA:** 116d8de13d32c38ce56c6531c03446f9ac7b5560
+===========================================================
+
+33fa80bfb5 CHOME-100570 - Add the rapid default background image. (#8727) (Domuta Darius, 2025-12-12 16:40:52 +0200)
+89a00e6858 Merge pull request #8719 from Crestron/merge-4.8-to-develop (Jordan Silver, 2025-12-12 09:24:55 -0500)
+6e30ec6b9a CHOME-103036 : Create UI states for different states of the tile. (#8726) (pkamat-crestron, 2025-12-12 15:08:39 +0530)
+c569f966f8 CHOME-101798 :  Add Microphone tile to Home screen (#8702) (pkamat-crestron, 2025-12-11 12:04:49 +0530)
+2f624e5f99 Fix/rapid volume slider (#8725) (Domuta Darius, 2025-12-11 08:29:16 +0200)
+3d72ddad69 Add missing methods lost in merge (jsilver, 2025-12-10 21:39:40 -0500)
+0b5eecf776 Add missing methods lost in merge (jsilver, 2025-12-10 18:33:52 -0500)
+c2d7b2fcde Add missing methods lost in merge (jsilver, 2025-12-10 17:34:47 -0500)
+265d743f20 Merge remote-tracking branch 'origin/develop' into merge-4.8-to-develop (jsilver, 2025-12-10 13:52:54 -0500)
+e70f4ae423 Merge remote-tracking branch 'origin/release/4.8' into merge-4.8-to-develop (jsilver, 2025-12-09 13:52:40 -0500)
+90937970d4 Merge remote-tracking branch 'origin/develop' into merge-4.8-to-develop (jsilver, 2025-12-09 13:52:27 -0500)
+963ce87eb5 CHOME-103033  (#8717) (Tanu Priya Mishra, 2025-12-09 14:47:10 +0530)
+e9e24f16f3 Merge remote-tracking branch 'origin/release/4.8' into merge-4.8-to-develop (jsilver, 2025-12-08 15:12:02 -0500)
+d131d39e7f CHOME-101916: RBCS Migrate from EncryptedSharedPreferences to regular non-encrypted SharedPreferences because of issues with Androids MasterKey and keysets (#8696) (Maks Melnychuk, 2025-11-28 12:30:07 +0200)
+40357ef95e [CHOME-94562] remove reversal of the sorting (#8692) (v-avisan, 2025-11-25 16:17:42 +0200)
+9554002a8c Update file provider (#8677) (Alin Morariu, 2025-11-18 18:04:20 +0200)
+c3a88b17f4 fix/CHOME-99985: Possible fix for ARN on Mobile app fresh install with low internet connection(#8676) (Alin Morariu, 2025-11-18 16:11:56 +0200)
+c51a83d060 Merge pull request #8675 from Crestron/bugfix/CHOME-100853-multiroom-volume-unresponsive (pkamat-crestron, 2025-11-18 18:45:00 +0530)
+b12916dd31 CHOME-100853 : Android 4.8.5 - Multi Room Volume control overlay screen becomes unresponsive after swiping down (Prakash Kamat, 2025-11-18 14:54:43 +0530)
+366dd0bfd3 CHOME-99983 (and CHOME-100324?) Android mobile RC 4.8.2 will not load any tiles or images when connected to Multi Processor (Maks Melnychuk, 2025-11-17 21:38:34 +0200)
+41669fc75e handle offline and error  text color (#8667) (Tanu Priya Mishra, 2025-11-13 15:54:15 +0530)
+8064b21618 CHOME-97920 Fix: A few room groups created from the setup app are not appearing in the whole house shade page - x70 panels (#8662) (#8665) (Maks Melnychuk, 2025-11-12 14:46:07 +0200)
+ee9905f3d0 Update the door status and remove unused door related code (#8661) (Tanu Priya Mishra, 2025-11-11 16:06:04 +0530)
+da473c5062 Fix crash on Diagnostics dependency initialisation (#8659) (Alin Morariu, 2025-11-10 17:40:31 +0200)
+b7aff6e671 Door status updated code with new unknown status handling (#8658) (Tanu Priya Mishra, 2025-11-10 18:11:07 +0530)
+cdd890d334 Resolved The All Open Icon on the room tile sometimes does not load correctly (#8652) (LodhiNeeraj, 2025-11-07 15:43:43 +0530)
+3d980550c0 CHOME--99394 : Android app stuck and crash when accessing volume control page of 5+ group rooms. (#8647) (pkamat-crestron, 2025-11-06 17:28:05 +0530)
+229e737210 [CHOME-98499] crash when Color Max and Color Min value set to overlap each other (#8636) (v-avisan, 2025-11-03 11:40:18 +0200)
+768306b528 Enable Whole house shades and doors status flags in beta builds (#8630) (Veeranna Iyle, 2025-10-31 17:40:25 +0530)
+368cb476a7 Resolved Room tile icons do not show the correct shade status when a scene is executed (#8629) (LodhiNeeraj, 2025-10-29 19:36:24 +0530)
+f98177bb65 Resolved Tapping on the open or close button on shade room tile does not halt the shade progress (#8627) (LodhiNeeraj, 2025-10-29 16:30:48 +0530)
+4189815aad [CHOME-91339] Pressing the disarm button on an Elk Virutal Keypad interface, does not bring up the disarm popup again (#8625) (v-avisan, 2025-10-28 16:42:48 +0200)
+11c7a41041 [CHOME-85853] fixed simplified chinese translation for Climate (#8620) (Mike Westendorf, 2025-10-27 12:37:22 -0400)
+b04152f298 [CHOME-94562] Extensions Populating Randomly when connecting to Crestron Home (#8614) (v-avisan, 2025-10-24 14:52:05 +0300)
+1bad03ecf3 Enable whole house shades and doors status feature flags (#8608) (Veeranna Iyle, 2025-10-22 14:19:23 +0530)
