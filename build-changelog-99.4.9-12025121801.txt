@@ -1,0 +1,8 @@
+Phoenix Android Nightly – Version 99.4.9-12025121801
+===========================================================
+Generated on:** 2025-12-18 15:02 UTC
+Branch:** develop
+Previous commit SHA:** 5ffd5fb02b3238e198748d3d33e4e9c2b67282c1
+===========================================================
+
+65bc3df64d [CHOME-103224] ] Implement display tile inactive state (#8731) (v-avisan, 2025-12-17 14:30:15 +0200)
