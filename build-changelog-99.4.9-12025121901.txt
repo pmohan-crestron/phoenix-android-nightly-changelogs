@@ -1,0 +1,11 @@
+Phoenix Android Nightly – Version 99.4.9-12025121901
+===========================================================
+Generated on:** 2025-12-19 15:03 UTC
+Branch:** develop
+Previous commit SHA:** 65bc3df64dfcc5c8a180702c74b599e22184cdfa
+===========================================================
+
+3e2880e56d CHOME-103801 : Refactored camera tile and added different UI states. (#8735) (pkamat-crestron, 2025-12-19 19:33:03 +0530)
+975a1702a5 Fix the build by switching to the correct raw resource after enabling nonTransitiveRClass. (#8736) (Maks Melnychuk, 2025-12-19 12:57:35 +0200)
+6ec2b99ee8 CHOME-93254 Remove android.enableJetifier=true from gradle.properties (#8724) (Maks Melnychuk, 2025-12-19 09:28:47 +0200)
+faa1fe7fef CHOME-93261 Enable nonTransitiveRClass and nonFinalResIds for Faster Builds (#8729) (Maks Melnychuk, 2025-12-19 09:18:56 +0200)
