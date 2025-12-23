@@ -1,0 +1,15 @@
+Phoenix Android Nightly – Version 99.4.9-12025122303
+===========================================================
+Generated on:** 2025-12-23 18:44 UTC
+Branch:** develop
+Previous commit SHA:** 65bc3df64dfcc5c8a180702c74b599e22184cdfa
+===========================================================
+
+f327fcfe97 Merge pull request #8746 from Crestron/CHOME-103980-developeroptionglideclear (Jordan Silver, 2025-12-23 13:21:11 -0500)
+b8251ccff3 CHOME-103980: Implement developer option to clear Glide memory (jsilver, 2025-12-23 10:35:04 -0500)
+7e5227572e CHOME-103980: Implement developer option to clear Glide memory (jsilver, 2025-12-23 10:33:39 -0500)
+895d9644a9 [CHOME-103222]  Create root view implementation for Multiple Display feature (#8737) (v-avisan, 2025-12-22 12:37:31 +0200)
+3e2880e56d CHOME-103801 : Refactored camera tile and added different UI states. (#8735) (pkamat-crestron, 2025-12-19 19:33:03 +0530)
+975a1702a5 Fix the build by switching to the correct raw resource after enabling nonTransitiveRClass. (#8736) (Maks Melnychuk, 2025-12-19 12:57:35 +0200)
+6ec2b99ee8 CHOME-93254 Remove android.enableJetifier=true from gradle.properties (#8724) (Maks Melnychuk, 2025-12-19 09:28:47 +0200)
+faa1fe7fef CHOME-93261 Enable nonTransitiveRClass and nonFinalResIds for Faster Builds (#8729) (Maks Melnychuk, 2025-12-19 09:18:56 +0200)
