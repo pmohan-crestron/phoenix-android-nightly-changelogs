@@ -1,0 +1,8 @@
+Phoenix Android Nightly – Version 99.4.9-12025122401
+===========================================================
+Generated on:** 2025-12-24 15:03 UTC
+Branch:** develop
+Previous commit SHA:** f327fcfe975777653ad3298b409bf4a20730fb38
+===========================================================
+
+8510c44612 Fix TSR build after enabling nonTransitiveRClass (#8741) (Maks Melnychuk, 2025-12-24 09:24:47 +0200)
