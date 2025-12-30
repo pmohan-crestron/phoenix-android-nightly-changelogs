@@ -1,0 +1,10 @@
+Phoenix Android Nightly – Version 99.4.9-12025123001
+===========================================================
+Generated on:** 2025-12-30 15:03 UTC
+Branch:** develop
+Previous commit SHA:** 9e0c054e9ccddd22b8baa1c084e514ac094c518d
+===========================================================
+
+04123a67bd Add Network Info to developer options for crestron panels (#8744) (Maks Melnychuk, 2025-12-30 16:23:39 +0200)
+4fa54ba357 CHOME-104282 Remove FEATURE_FLAG_FONT_SCALING (#8749) (Maks Melnychuk, 2025-12-30 16:22:52 +0200)
+d9329fb9ec CHOME-104279 Remove FEATURE_FLAG_MOVE_TUNABLE_HEALTH_TO_MAIN_SETTINGS (#8753) (Maks Melnychuk, 2025-12-30 16:21:38 +0200)
