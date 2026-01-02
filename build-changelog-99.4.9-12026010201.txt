@@ -1,0 +1,8 @@
+Phoenix Android Nightly – Version 99.4.9-12026010201
+===========================================================
+Generated on:** 2026-01-02 15:02 UTC
+Branch:** develop
+Previous commit SHA:** 6174340233285fd263dd0e538abeba1deadce3c3
+===========================================================
+
+ec02a0dfbf CHOME-104109 Remove FEATURE_FLAG_SONOS_OAUTH (#8755) (Maks Melnychuk, 2026-01-02 11:42:20 +0200)
