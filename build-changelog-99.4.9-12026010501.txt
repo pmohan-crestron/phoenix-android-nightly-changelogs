@@ -1,0 +1,12 @@
+Phoenix Android Nightly – Version 99.4.9-12026010501
+===========================================================
+Generated on:** 2026-01-05 15:02 UTC
+Branch:** develop
+Previous commit SHA:** ec02a0dfbf1967cfd2d999f4d026f2e8c636e04b
+===========================================================
+
+e8c1121e35 CHOME-104204: Implement the 'All Muted' UI state (#8743) (Justin Aloor, 2026-01-05 17:16:47 +0530)
+99b75c9444 CHOME-104110 Remove FEATURE_FLAG_MUSIC_GROUP_POWER_OFF (#8756) (Maks Melnychuk, 2026-01-05 10:57:59 +0200)
+8e0876b8f7 CHOME-104108 Remove FEATURE_FLAG_SHADES_WHOLE_HOUSE_SUPPORTED (#8754) (Maks Melnychuk, 2026-01-05 08:52:13 +0200)
+f2bcf09ff8 CHOME-104112 Remove FEATURE_FLAG_DOORS_STATUS (#8758) (Maks Melnychuk, 2026-01-05 08:50:44 +0200)
+d91eb7f8e6 CHOME-104212 : Update the Crestron Home app to use the new comm lib version with updated dependencies (#8740) (pkamat-crestron, 2026-01-05 11:12:21 +0530)
