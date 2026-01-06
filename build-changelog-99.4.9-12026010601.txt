@@ -1,0 +1,8 @@
+Phoenix Android Nightly – Version 99.4.9-12026010601
+===========================================================
+Generated on:** 2026-01-06 15:03 UTC
+Branch:** develop
+Previous commit SHA:** e8c1121e35cacfbdb356d5ccde4aeebf565ce8d4
+===========================================================
+
+3ed4ef4f25 CHOME-101392 - Introduce date format settings and rapid home date. (#8738) (Domuta Darius, 2026-01-06 07:30:59 +0200)
