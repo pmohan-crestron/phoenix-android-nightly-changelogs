@@ -1,0 +1,11 @@
+Phoenix Android Nightly – Version 99.4.9-12026010801
+===========================================================
+Generated on:** 2026-01-08 15:02 UTC
+Branch:** develop
+Previous commit SHA:** 3ed4ef4f2599cadb5059e4d555c345fb70d5140d
+===========================================================
+
+92fbd41f4b CHOME-103736- CameraSteamPlayer composable to use the UIToVideo lib for camera st… (#8739) (Sravanth AV, 2026-01-08 07:57:01 -0600)
+60479ba86a [CHOME-1044716] Implement ViewModel for new video feature (#8763) (v-avisan, 2026-01-08 14:14:04 +0200)
+7489f5ff3a CHOME-97454/CHOME-101699: Microphone || Page Layout (#8733) (Justin Aloor, 2026-01-08 17:23:13 +0530)
+efffcbaab5 CHOME-101708 - Navigation to video detail page (#8762) (Tanu Priya Mishra, 2026-01-08 11:12:08 +0530)
