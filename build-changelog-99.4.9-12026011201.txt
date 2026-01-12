@@ -1,0 +1,11 @@
+Phoenix Android Nightly – Version 99.4.9-12026011201
+===========================================================
+Generated on:** 2026-01-12 15:04 UTC
+Branch:** develop
+Previous commit SHA:** c8f4fce6a49db610075e6d303da9dadaa2e4666d
+===========================================================
+
+0a87834872 CHOME-104894 - Use the first room as the default one for mobile rapid builds. (#8769) (Domuta Darius, 2026-01-12 15:15:20 +0200)
+a4fd206190 Fix the rapid home page connectivity bar. (#8768) (Domuta Darius, 2026-01-12 13:50:10 +0200)
+dcdab81a90 Feature/add rapid room intercom tile (#8730) (Alin Morariu, 2026-01-12 13:07:41 +0200)
+869a47361c Different rootview for single/multiple. Header and back button for video detail (#8767) (Tanu Priya Mishra, 2026-01-12 11:12:36 +0530)
