@@ -1,0 +1,11 @@
+Phoenix Android Nightly – Version 99.4.9-12026011301
+===========================================================
+Generated on:** 2026-01-13 15:03 UTC
+Branch:** develop
+Previous commit SHA:** 0a878348725e5c69d4fb9c8f3067a2a679f0868a
+===========================================================
+
+371918a2fd CHOME-93694 Feature flag developer options. Add an entry in Developer Options to list the feature flags and their values (#8774) (Maks Melnychuk, 2026-01-13 16:04:22 +0200)
+826a863421 Upgrade gradle plugin to 8.13.2 (#8771) (Alin Morariu, 2026-01-13 13:32:54 +0200)
+d0db7bcc13 Fix 16KB page size support from Google play Store (#8772) (Alin Morariu, 2026-01-13 13:31:40 +0200)
+a69e911682 Added the root view for the remote screen. (#8770) (LodhiNeeraj, 2026-01-13 12:21:06 +0530)
