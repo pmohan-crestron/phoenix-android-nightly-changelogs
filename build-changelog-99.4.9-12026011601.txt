@@ -1,0 +1,13 @@
+Phoenix Android Nightly – Version 99.4.9-12026011601
+===========================================================
+Generated on:** 2026-01-16 15:28 UTC
+Branch:** develop
+Previous commit SHA:** 371918a2fdb3b9f266c33f8739d757c7a1cd1ff6
+===========================================================
+
+198ccee0fc CHOME-93697 Feature flag developer options. Create button to reset feature flag values to their defaults (#8782) (Maks Melnychuk, 2026-01-16 16:28:05 +0200)
+cfb034ea7f [CHOME-105175] Implement display tile horizontal scrolling list (#8783) (v-avisan, 2026-01-16 16:20:27 +0200)
+c273cd2904 Fix Cameras list image flickering when preview is changed (#8781) (Alin Morariu, 2026-01-16 09:47:35 +0200)
+bcbfe39c11 CHOME-93695 Feature flag developer options. Save changes to feature flag states to SharedPreferences (#8780) (Maks Melnychuk, 2026-01-16 08:41:39 +0200)
+c6d86f030b CHOME-93696 Feature flag developer options. Read feature flag override values from SharedPrefs (#8777) (Maks Melnychuk, 2026-01-15 10:15:04 +0200)
+107779219f [CHOME-104776] implement multi display pick&poke (#8778) (v-avisan, 2026-01-14 17:29:15 +0200)
