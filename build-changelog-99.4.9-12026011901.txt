@@ -1,0 +1,8 @@
+Phoenix Android Nightly – Version 99.4.9-12026011901
+===========================================================
+Generated on:** 2026-01-19 15:14 UTC
+Branch:** develop
+Previous commit SHA:** 198ccee0fc7f9b7dd7cb2c026638466b58cbd0f8
+===========================================================
+
+501e0d6435 feature:CHOME-104946:Implement the VideoScreenInfoProvider as part of the navigation setup. (#8786) (LodhiNeeraj, 2026-01-19 19:21:32 +0530)
