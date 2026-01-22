@@ -1,0 +1,10 @@
+Phoenix Android Nightly – Version 99.4.9-12026012201
+===========================================================
+Generated on:** 2026-01-22 15:24 UTC
+Branch:** develop
+Previous commit SHA:** 8edf34950e333ee801b30c2b28a434db6a60c999
+===========================================================
+
+961a94b449 feature:CHOME-105537:Create a view model for the Remotes screen sceond (#8794) (LodhiNeeraj, 2026-01-22 14:59:57 +0530)
+ec5a2e65e4 CHOME-105653: koin..DefinitionOverrideException (#8792) (Justin Aloor, 2026-01-22 10:39:45 +0530)
+b7744ab13a CHOME-104455: Adjust Copyright logic to inject only the year into the String (#8790) (Jordan Silver, 2026-01-21 12:48:24 -0500)
