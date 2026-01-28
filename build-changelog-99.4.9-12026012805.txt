@@ -1,0 +1,8 @@
+Phoenix Android Nightly – Version 99.4.9-12026012805
+===========================================================
+Generated on:** 2026-01-28 15:38 UTC
+Branch:** develop
+Previous commit SHA:** f862e5e49b038c09a134faee6e9ef381626be4c4
+===========================================================
+
+68655809e2 Clean hardcoded rapid room camera tile visibility (#8809) (Alin Morariu, 2026-01-28 16:30:34 +0200)
