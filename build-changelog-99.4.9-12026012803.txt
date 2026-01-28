@@ -1,0 +1,10 @@
+Phoenix Android Nightly – Version 99.4.9-12026012803
+===========================================================
+Generated on:** 2026-01-28 12:28 UTC
+Branch:** develop
+Previous commit SHA:** 3322885f21af96813b11dc96f2aa0fb273fa06a1
+===========================================================
+
+f862e5e49b [CHOME-105178] Retrieve list of displays from server (#8808) (v-avisan, 2026-01-28 13:20:00 +0200)
+50318f1c93 CHOME-105898 : Fix VideoFullScreenFragment leak (#8807) (pkamat-crestron, 2026-01-28 15:31:30 +0530)
+459725b8bc CHOME-104997: Integrate ViewModel and Trigger Actions from Events (#8797) (Justin Aloor, 2026-01-28 15:26:35 +0530)
