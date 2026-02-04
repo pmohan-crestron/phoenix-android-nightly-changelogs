@@ -1,0 +1,8 @@
+Phoenix Android Nightly – Version 99.4.9-12026020301
+===========================================================
+Generated on:** 2026-02-04 03:03 UTC
+Branch:** develop
+Previous commit SHA:** 7c73b673243cd349a01b0806c791a5b8f43cb792
+===========================================================
+
+c2df42f2fa [CHOME-CHOME-106658] Implement NVX Windowing button (#8823) (v-avisan, 2026-02-03 12:25:18 +0200)
