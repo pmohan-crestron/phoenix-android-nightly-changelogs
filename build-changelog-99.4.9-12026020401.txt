@@ -1,0 +1,8 @@
+Phoenix Android Nightly – Version 99.4.9-12026020401
+===========================================================
+Generated on:** 2026-02-05 03:05 UTC
+Branch:** develop
+Previous commit SHA:** c2df42f2fad9c32f5ddb9e17753dd3a1fc75fa81
+===========================================================
+
+87b48e74d9 Enable Rapid feature flag for Nightly builds (#8824) (Alin Morariu, 2026-02-04 09:33:44 +0200)
