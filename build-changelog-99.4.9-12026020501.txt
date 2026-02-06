@@ -1,0 +1,16 @@
+Phoenix Android Nightly – Version 99.4.9-12026020501
+===========================================================
+Generated on:** 2026-02-06 03:05 UTC
+Branch:** develop
+Previous commit SHA:** 87b48e74d9d4730adaea29b7a02ffa003cd40a48
+===========================================================
+
+8225a178a2 CHOME-93228:Changes to add Insets at top bar only for mobile devices (#8836) (Sravanth AV, 2026-02-05 20:20:50 -0600)
+2fdfb56bd1 [CHOME-106652] Implement Power button on display tile (#8835) (v-avisan, 2026-02-05 16:48:51 +0200)
+cf5b19c6bd Feature/store deployment type info on home entity (#8817) (Alin Morariu, 2026-02-05 13:46:09 +0200)
+58b6fc2a80 Merge pull request #8828 from Crestron/feature/add-rapid-home-lighting-tile (v-amorariu, 2026-02-05 11:45:48 +0200)
+cd88064afa Update QueryWholeHouseLightsTileInfo ui state mapping method name (Alin Morariu, 2026-02-05 10:45:36 +0200)
+26ed01626f Update homeskeleton/src/main/java/com/crestron/phoenix/homeskeleton/ui/subsystems/subsystem/lights/rapid/HomeLightingTile.kt (Alin Morariu, 2026-02-05 10:44:28 +0200)
+074e2af83b CHOME-105779 : Fix for various fragment leaks. (#8822) (pkamat-crestron, 2026-02-05 11:39:41 +0530)
+04f4dede34 CHOME-106919 : Fix Source Selection fragment leak and Custom device tile cleanup (#8825) (pkamat-crestron, 2026-02-05 11:39:15 +0530)
+bb991fef90 Add Rapid Home Lighting tile (Alin Morariu, 2026-02-04 17:37:34 +0200)
