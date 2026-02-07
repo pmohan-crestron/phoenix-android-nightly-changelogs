@@ -1,0 +1,12 @@
+Phoenix Android Nightly – Version 99.4.9-12026020601
+===========================================================
+Generated on:** 2026-02-07 03:07 UTC
+Branch:** develop
+Previous commit SHA:** 8225a178a244d9e309fd04b29ef6abe4bc83d73a
+===========================================================
+
+1eced21b0c CHOME-107243 - Rename "RapidHome" to "RapidRoom" in all rapid modules… (#8837) (Domuta Darius, 2026-02-06 18:34:28 +0200)
+e7c5ed5e7e [CHOME-106672]  Enable selected states for source and display cells (#8840) (v-avisan, 2026-02-06 16:03:08 +0200)
+6d0dffaa89 CHOME-104718 - Introduce the ".scaledDp" function to assign scaled si… (#8779) (Domuta Darius, 2026-02-06 15:42:29 +0200)
+3fb1907f12 CHOME-106950 - SourceIcons for single display (#8831) (Tanu Priya Mishra, 2026-02-06 13:15:40 +0530)
+8e4837872b feature/CHOME-106998:Implement the primary remote button and update the view model to ensure it retrieves the appropriate data. (#8834) (nlodhi-crestron, 2026-02-06 12:17:20 +0530)
