@@ -1,0 +1,11 @@
+Phoenix Android Nightly – Version 99.4.9-12026021001
+===========================================================
+Generated on:** 2026-02-11 03:05 UTC
+Branch:** develop
+Previous commit SHA:** 9b38cbab1024eb65620f40ab25ff773b2f0b546a
+===========================================================
+
+896c6b8cf9 Add Rapid Home Shades tile (#8833) (v-amorariu, 2026-02-10 17:25:08 +0200)
+f640fdc632 [TRANSLATIONS] Automation: Importing translations from release4.08-export-11_18_2025 (#8745) (Mike Westendorf, 2026-02-10 09:26:03 -0500)
+3577bd11b6 feature:CHOME-107296:Implement the Dpad left remote button and update the view model to ensure it retrieves the appropriate data. (#8847) (nlodhi-crestron, 2026-02-10 17:05:24 +0530)
+befed78eb1 Add Home Rapid Climate tile (#8845) (v-amorariu, 2026-02-10 13:34:18 +0200)
