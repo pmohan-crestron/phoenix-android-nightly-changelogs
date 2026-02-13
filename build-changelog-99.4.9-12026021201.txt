@@ -1,9 +1,12 @@
 Phoenix Android Nightly – Version 99.4.9-12026021201
 ===========================================================
-Generated on:** 2026-02-12 17:49 UTC
-Branch:** CHOME-107085-VideoSceneCrash
+Generated on:** 2026-02-13 03:04 UTC
+Branch:** develop
 Previous commit SHA:** 2989536e413bd7c357e84fea3488d239e95b4962
 ===========================================================
 
-f41b2c8fc0 CHOME-107085 Remove Root Clickable section (jsilver, 2026-02-12 12:45:42 -0500)
-340eefd287 CHOME-107085: Adjust layout to match working scene tiles (jsilver, 2026-02-11 11:27:27 -0500)
+ea8faf958b CHOME-107081: Change Iris to Brightness and related UI changes (#8844) (Justin Aloor, 2026-02-12 20:18:09 +0530)
+852050fa15 Fix/rapid room query room image (#8854) (v-amorariu, 2026-02-12 10:46:18 +0200)
+588daf432f CHOME-106951 - Highlight on source selected and route the source (#8853) (Tanu Priya Mishra, 2026-02-12 14:01:26 +0530)
+5348e9222d CHOME-107521 : CircularProgressDrawable related optimizations. (#8851) (pkamat-crestron, 2026-02-12 12:48:08 +0530)
+5bed7e481f feature:CHOME-107297:Implement the Dpad Right remote button and updat… (#8849) (nlodhi-crestron, 2026-02-12 11:06:18 +0530)
