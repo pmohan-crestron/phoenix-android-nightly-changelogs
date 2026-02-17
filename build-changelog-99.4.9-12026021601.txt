@@ -1,0 +1,12 @@
+Phoenix Android Nightly – Version 99.4.9-12026021601
+===========================================================
+Generated on:** 2026-02-17 03:03 UTC
+Branch:** develop
+Previous commit SHA:** 4cc04ac8e0ba1b452dedf8a698b9d72fd8fa8e83
+===========================================================
+
+5afb4dc023 CHOME-107467 - Adapt the Rapid screen to be used as the Room Details … (#8860) (Domuta Darius, 2026-02-16 15:29:27 +0200)
+5fc402fc61 Fix rapid room music tile action with one source (#8862) (v-amorariu, 2026-02-16 14:10:23 +0200)
+60dc2e40b6 Use dispatcher io DI inside the rapid service tiles (#8861) (v-amorariu, 2026-02-16 14:08:08 +0200)
+036a365988 Add rapid home security system tile (#8859) (v-amorariu, 2026-02-16 11:51:00 +0200)
+e07b77dbca CHOME-106934 : CloudRelay white screen displayed after Changing phone number or password from User -> Update your profile screen (#8857) (pkamat-crestron, 2026-02-16 10:55:21 +0530)
