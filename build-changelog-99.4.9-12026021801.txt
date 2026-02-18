@@ -1,0 +1,15 @@
+Phoenix Android Nightly – Version 99.4.9-12026021801
+===========================================================
+Generated on:** 2026-02-18 19:25 UTC
+Branch:** CHOME-107085-VideoSceneCrash
+Previous commit SHA:** f6ba7ea4ba4dd26a65a9722e2d7e27ae1747677b
+===========================================================
+
+70e373259e CHOME-107085 Adjust Layout (jsilver, 2026-02-18 14:21:16 -0500)
+c0f2ac4f36 CHOME-107085 Adjust Layout (jsilver, 2026-02-13 15:01:58 -0500)
+394d8a950e CHOME-107085 Adjust Layout (jsilver, 2026-02-13 13:47:30 -0500)
+64ab93c298 CHOME-107085 Adjust View Holder Type (jsilver, 2026-02-12 18:42:19 -0500)
+22061830aa CHOME-107085 Adjust View Holder Type (jsilver, 2026-02-12 18:29:46 -0500)
+9f877996fe CHOME-107085 Remove Root Clickable section (jsilver, 2026-02-12 15:55:36 -0500)
+f41b2c8fc0 CHOME-107085 Remove Root Clickable section (jsilver, 2026-02-12 12:45:42 -0500)
+340eefd287 CHOME-107085: Adjust layout to match working scene tiles (jsilver, 2026-02-11 11:27:27 -0500)
