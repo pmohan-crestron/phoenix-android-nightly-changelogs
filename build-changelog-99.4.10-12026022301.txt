@@ -1,0 +1,10 @@
+Phoenix Android Nightly – Version 99.4.10-12026022301
+===========================================================
+Generated on:** 2026-02-24 03:05 UTC
+Branch:** develop
+Previous commit SHA:** dc00107358a5532fd4343505dab036e5c34a29fb
+===========================================================
+
+ec8925b95c CHOME-108182 : In the RoomsList screen for each of the rooms replace now playing media animation with static image. (#8870) (pkamat-crestron, 2026-02-23 21:14:06 +0530)
+c7babdf676 [CHOME-106774] Update source cell badge (#8879) (v-avisan, 2026-02-23 14:57:10 +0200)
+c615ce6fae added missing blue border (#8876) (Tanu Priya Mishra, 2026-02-23 11:49:13 +0530)
