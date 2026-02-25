@@ -1,0 +1,19 @@
+Phoenix Android Nightly – Version 99.4.10-12026022401
+===========================================================
+Generated on:** 2026-02-25 03:06 UTC
+Branch:** develop
+Previous commit SHA:** ec8925b95cf7d6173d525add88110541235afaa5
+===========================================================
+
+7a69d9a542 CHOME-105773: MultiRoom adapter leak fix (#8838) (Jordan Silver, 2026-02-24 14:30:50 -0500)
+206aedf8dd Fix supported features on the screens accessed from rapid room screen (#8890) (v-amorariu, 2026-02-24 19:11:55 +0200)
+c891442be8 CHOME-107085: Fix Video Scene Crash (#8880) (Jordan Silver, 2026-02-24 11:07:50 -0500)
+f23776137c CHOME-108911 - Hide the volume step indicators on the rapid room bottom bar. (#8889) (Domuta Darius, 2026-02-24 17:40:50 +0200)
+347a880c7c CHOME-108910 - Update the background image for the Rapid Room screen. (#8888) (Domuta Darius, 2026-02-24 17:40:34 +0200)
+e8b80940b6 Fix the rapid bottom bar navigation status on mobile builds. (#8887) (Domuta Darius, 2026-02-24 16:36:29 +0200)
+8467bfa618 CHOME-108666 : Enabling Camera and Mic features at run time is not showing respective tiles (#8886) (pkamat-crestron, 2026-02-24 18:54:18 +0530)
+9194d1fc3c Inject ioDispatcher in the rapid view models (#8885) (v-amorariu, 2026-02-24 14:19:29 +0200)
+596e970e20 Add Floating Bottom Bar as supported features on PulleyContainerFragment (#8884) (v-amorariu, 2026-02-24 14:19:13 +0200)
+2078da1f42 feature:CHOME-108402: Implement the Color remote button and update th… (#8883) (nlodhi-crestron, 2026-02-24 16:45:05 +0530)
+5175914dcc Fix Rapid Room service tiles shadow (#8874) (v-amorariu, 2026-02-24 12:26:38 +0200)
+3ee41e7f22 bugfix:CHOME-107821: Resolved Media Room Grouping page takes a long time to load on Max system (#8881) (nlodhi-crestron, 2026-02-24 13:34:21 +0530)
