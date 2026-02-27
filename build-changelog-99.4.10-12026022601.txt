@@ -1,0 +1,14 @@
+Phoenix Android Nightly – Version 99.4.10-12026022601
+===========================================================
+Generated on:** 2026-02-27 03:04 UTC
+Branch:** develop
+Previous commit SHA:** fccbef453bc5b3db190d28e0c829a5177949279d
+===========================================================
+
+030a2943e7 Timer update from 4.7.1 to 5.0.1 (#8877) (Sravanth AV, 2026-02-26 08:48:54 -0600)
+e0588f2689 Fix/rapid room climate tile offline status (#8900) (v-amorariu, 2026-02-26 15:49:41 +0200)
+06a7f42be8 Fix the rapid feature navigation stack popping. (#8897) (Domuta Darius, 2026-02-26 14:18:26 +0200)
+b804c885ce CHOME-108948 : Optimize source selection screen (#8893) (pkamat-crestron, 2026-02-26 16:46:53 +0530)
+5d31b6ea04 Add Rapid flag check (#8899) (Tanu Priya Mishra, 2026-02-26 16:36:38 +0530)
+4604aba66d feature:CHOME-108885: Implement the necessary changes to ensure the n… (#8898) (nlodhi-crestron, 2026-02-26 12:36:52 +0530)
+ba12272a38 CHOME-108712 - UI matching figma single display (#8896) (Tanu Priya Mishra, 2026-02-26 11:26:23 +0530)
