@@ -1,0 +1,14 @@
+Phoenix Android Nightly – Version 99.4.10-12026022701
+===========================================================
+Generated on:** 2026-02-28 03:04 UTC
+Branch:** develop
+Previous commit SHA:** 030a2943e7623d1cfbe1452a582c81ecd84ea8cd
+===========================================================
+
+9eff0bf4f2 Fix crash on Rapid Room when change active home (#8911) (v-amorariu, 2026-02-28 01:28:13 +0200)
+f987d0413c Fix the rapid bottom bar volume increment/decrement. (#8909) (Domuta Darius, 2026-02-27 17:43:23 +0200)
+68ec1f26dc [CHOME-107727] Implement display selected state when user clicks on Display tile (#8906) (v-avisan, 2026-02-27 16:28:19 +0200)
+ccedb9ef50 CHOME-109073 - Rapid portrait mode support and spacing fixes. (#8902) (Domuta Darius, 2026-02-27 16:02:36 +0200)
+b80acd7c74 Remove logs to avoid home password leaking (#8904) (v-amorariu, 2026-02-27 12:21:36 +0200)
+6881ac137b CHOME-108844 : [Android] Enable all rapid feature flags in nightly build (#8882) (pkamat-crestron, 2026-02-27 14:47:46 +0530)
+94dccb7c4a feature:CHOME-109016: Implement the source offline behaviour (#8903) (nlodhi-crestron, 2026-02-27 13:53:44 +0530)
