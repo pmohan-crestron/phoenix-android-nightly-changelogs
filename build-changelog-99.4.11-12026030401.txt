@@ -1,0 +1,10 @@
+Phoenix Android Nightly – Version 99.4.11-12026030401
+===========================================================
+Generated on:** 2026-03-05 03:06 UTC
+Branch:** develop
+Previous commit SHA:** d2fc14b69edcec34af539f9d9ec15d2298e71a93
+===========================================================
+
+e381c082ba CHOME-109467 - Persist the deployment type when reconnecting to the same home. (#8925) (Domuta Darius, 2026-03-04 15:20:07 +0200)
+1eda7b5a3c feature:CHOME-109138: Set up new folder and environment for Rapid Num… (#8928) (nlodhi-crestron, 2026-03-04 18:50:04 +0530)
+445cc75b82 Fix image loading state update (#8926) (v-amorariu, 2026-03-04 12:07:29 +0200)
