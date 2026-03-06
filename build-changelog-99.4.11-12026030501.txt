@@ -1,0 +1,11 @@
+Phoenix Android Nightly – Version 99.4.11-12026030501
+===========================================================
+Generated on:** 2026-03-06 03:03 UTC
+Branch:** develop
+Previous commit SHA:** e381c082ba1a025ea877337842b8db0747bebb1c
+===========================================================
+
+49b6367112 Bug/unit test fixes (#8921) (Steven Morris, 2026-03-05 14:18:06 -0800)
+70643f58ee Add NVXFullScreenButton UI layout (#8930) (Jordan Silver, 2026-03-05 10:26:17 -0500)
+66b4f95ffd CHOME-109465 - improve source tile for single multiple display (#8927) (Tanu Priya Mishra, 2026-03-05 15:31:55 +0530)
+f452584bdb Add home deployment type flag through cloud relay (#8929) (v-amorariu, 2026-03-05 10:53:03 +0200)
