@@ -1,0 +1,11 @@
+Phoenix Android Nightly – Version 99.4.11-12026032001
+===========================================================
+Generated on:** 2026-03-21 02:06 UTC
+Branch:** develop
+Previous commit SHA:** 0f3ea25e9dba01541859906901e89f4e7adf8578
+===========================================================
+
+58393c8deb CHOME-110838 - Add a back button on the rapid room screen when the rapid home mode is enabled. (Domuta Darius, 2026-03-20 13:33:19 +0200)
+ac9e67186b feature:CHOME-110131: Implement the Rapid Favourite list and update t… (#8972) (nlodhi-crestron, 2026-03-20 13:02:08 +0530)
+4d6998cd1f Add rapid home service tiles layout (#8970) (v-amorariu, 2026-03-20 09:13:23 +0200)
+0b4eb6389a CHOME-110387 : Optimize Image memory and file caching (#8961) (pkamat-crestron, 2026-03-20 10:39:42 +0530)
