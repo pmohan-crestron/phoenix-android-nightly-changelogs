@@ -1,0 +1,9 @@
+Phoenix Android Nightly – Version 99.4.11-12026032301
+===========================================================
+Generated on:** 2026-03-24 02:04 UTC
+Branch:** develop
+Previous commit SHA:** 58393c8debdace1d0b4edbb7efa97034dd3d4dea
+===========================================================
+
+c544978289 Add back the rapid home quick actions on the rapid home screen. (#8976) (Domuta Darius, 2026-03-23 14:07:48 +0200)
+b0deb91e66 CHOME-108404 - Added offline state in single and multiple display (#8966) (Tanu Priya Mishra, 2026-03-23 10:38:42 +0530)
