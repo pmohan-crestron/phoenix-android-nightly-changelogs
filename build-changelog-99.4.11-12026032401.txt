@@ -1,0 +1,9 @@
+Phoenix Android Nightly – Version 99.4.11-12026032401
+===========================================================
+Generated on:** 2026-03-25 02:02 UTC
+Branch:** develop
+Previous commit SHA:** c54497828956ddf977e2306eb533a5dc0ec7d1c9
+===========================================================
+
+fd1cf17fc0 Add intercom service tile on the rapid home screen (#8981) (v-amorariu, 2026-03-24 12:58:29 +0200)
+4e3f5007d4 Feature/CHOME-110135: Implement the Rapid Favourite list not available screen and update the view model to ensure it retrieves the appropriate data (#8977) (nlodhi-crestron, 2026-03-24 11:49:34 +0530)
