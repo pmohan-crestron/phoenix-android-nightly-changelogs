@@ -1,0 +1,10 @@
+Phoenix Android Nightly – Version 99.4.11-12026040601
+===========================================================
+Generated on:** 2026-04-07 02:04 UTC
+Branch:** develop
+Previous commit SHA:** fae4209e7936db29e05b388868cc27378e1fa52f
+===========================================================
+
+ae4b6c47f9 CHOME-111402 - Introduce FEATURE_FLAG_RAPID_HOME. (#9013) (Domuta Darius, 2026-04-06 18:05:53 +0300)
+22220bb4bd CHOME-110064 : (Max System) Media control page transition is choppy after selecting an audio source. (#9011) (pkamat-crestron, 2026-04-06 18:13:31 +0530)
+a967ac1d13 Feature/CHOME-11469:Set up new folder and environment for Rapid Change Preset Group Screen functionality (#9018) (nlodhi-crestron, 2026-04-06 14:25:15 +0530)
