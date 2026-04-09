@@ -1,0 +1,11 @@
+Phoenix Android Nightly – Version 99.4.11-12026040801
+===========================================================
+Generated on:** 2026-04-09 02:03 UTC
+Branch:** develop
+Previous commit SHA:** ae4b6c47f98df6e45859f1e7ec7cdaf81dcc3846
+===========================================================
+
+df638b7e70 CHOME-109532: App crashes when Camera screen is opened multiple times (#9001) (Justin Aloor, 2026-04-08 17:19:28 +0530)
+ba2ac79436 Feature/CHOME-111470: Implement the Rapid Change Preset Group list and update the view model to ensure it retrieves the appropriate data. (#9021) (nlodhi-crestron, 2026-04-08 17:04:29 +0530)
+9827c92a26 Implement the mobile rapid home portrait feature. (#9019) (Domuta Darius, 2026-04-08 12:43:15 +0300)
+5464cb388f CHOME-101698 : Microphoneslib as per new architecture (#9000) (pkamat-crestron, 2026-04-08 15:09:01 +0530)
