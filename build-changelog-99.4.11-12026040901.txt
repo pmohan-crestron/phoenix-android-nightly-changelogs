@@ -1,0 +1,9 @@
+Phoenix Android Nightly – Version 99.4.11-12026040901
+===========================================================
+Generated on:** 2026-04-10 02:03 UTC
+Branch:** develop
+Previous commit SHA:** df638b7e70cc3b87a558fdeac84e5c6407c96435
+===========================================================
+
+6daa3e7025 CHOME-112425 - Rapid screens subsystems spacing. (#9022) (Domuta Darius, 2026-04-09 14:33:33 +0300)
+a67baebb92 Fix/main activity resume fragments (#9020) (v-amorariu, 2026-04-09 11:19:23 +0300)
