@@ -1,0 +1,15 @@
+Phoenix Android Nightly – Version 99.4.11-12026041301
+===========================================================
+Generated on:** 2026-04-14 02:03 UTC
+Branch:** develop
+Previous commit SHA:** ad1de0f2fac0e015171b1fe79de3d1482aaaf512
+===========================================================
+
+3f130e28f8 Merge pull request #9016 from Crestron/FixNVXWindowingPadding (Jordan Silver, 2026-04-13 16:14:32 -0400)
+6053547b98 Merge pull request #9017 from Crestron/AddMediaEndpointVideoLayoutStateToDataLayer (Jordan Silver, 2026-04-13 16:14:15 -0400)
+ab84fcc195 CHOME-110611 : Added isReady field to RpcMediaMicrophoneState and related changes (#9036) (pkamat-crestron, 2026-04-13 18:14:28 +0530)
+5beaafbf0a CHOME-109811 : (Max System/Panel Performance) Audio and Video room tiles take significant time to render. (#9034) (pkamat-crestron, 2026-04-13 18:13:23 +0530)
+b0fb63747c feature:CHOME-111472: Update the Edit text Color according to Figma (#9035) (nlodhi-crestron, 2026-04-13 13:54:59 +0530)
+7f0f6d6ea9 Add MediaEndpointVideoLayoutState to data layer (jsilver, 2026-04-03 21:28:03 -0400)
+44d649374d Fix NVX Padding values (jsilver, 2026-04-03 11:34:01 -0400)
+2dbc8b53e2 Merge branch 'develop' of https://github.com/Crestron/mobile-android-phoenix into develop (jsilver, 2026-04-03 08:56:07 -0400)
