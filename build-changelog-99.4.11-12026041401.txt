@@ -1,0 +1,13 @@
+Phoenix Android Nightly – Version 99.4.11-12026041401
+===========================================================
+Generated on:** 2026-04-15 02:03 UTC
+Branch:** develop
+Previous commit SHA:** 3f130e28f8499947b1527f297c344c9755c7c3e5
+===========================================================
+
+045f141dec Fix set rapid flags on main activity when the view pager main adapter… (#9041) (v-amorariu, 2026-04-14 17:27:54 +0300)
+224356c60f CHOME-112993 - Fix default room switching crash via rooms button. (#9042) (Domuta Darius, 2026-04-14 16:47:33 +0300)
+bd57cb2491 feature:CHOME-112620:Set up folder structure and environment for “Sel… (#9039) (nlodhi-crestron, 2026-04-14 17:33:50 +0530)
+d42a0b55e5 Fix the rapid home bottom bar spacing and alignment. (#9027) (Domuta Darius, 2026-04-14 10:54:00 +0300)
+ef918d0fdb CHOME-112431 - Differentiate rapid home and single room experience handlings for the back button and the more router. (#9026) (Domuta Darius, 2026-04-14 10:53:48 +0300)
+feaef532c9 CHOME-112427 - Fix the active media bar in the rapid single room mode. (#9025) (Domuta Darius, 2026-04-14 10:53:36 +0300)
