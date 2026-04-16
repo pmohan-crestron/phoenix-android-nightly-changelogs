@@ -1,0 +1,22 @@
+Phoenix Android Nightly – Version 99.4.11-12026041501
+===========================================================
+Generated on:** 2026-04-16 02:04 UTC
+Branch:** develop
+Previous commit SHA:** 045f141decccb086bea76997c98a12af70d67145
+===========================================================
+
+762c74d808 Merge pull request #9037 from Crestron/merge-for-hotfix-4-10-develop (Jordan Silver, 2026-04-15 12:45:46 -0400)
+e64e6e3a6f Merge branch 'release/4.10' of https://github.com/Crestron/mobile-android-phoenix into merge-for-hotfix-4-10-develop (jsilver, 2026-04-13 16:12:20 -0400)
+7d5e2195ad Merge pull request #9023 from Crestron/hotfix/4.10 (m-arif-crestron, 2026-04-08 10:14:59 -0500)
+717dcb3b82 hotfix/4.10: Fix for crash on french language. (m-arif-crestron, 2026-04-08 08:45:15 -0500)
+fd7cf2534b CHOME-111296: Fix CloudRelay invite bug: send correct API role strings (Owner/User) (#8987) (Steven Morris, 2026-03-26 06:32:56 -0700)
+97b3261ae6 Revert "Additional logs to track the active media bar (#8967)" (#8989) (Tanu Priya Mishra, 2026-03-26 12:56:47 +0530)
+649ee7da39 bugfix:CHOME-111464: Clean up debug logs added for active media album art issue (#8988) (nlodhi-crestron, 2026-03-26 11:34:57 +0530)
+c2a6de009f Additional logs to track the active media bar (#8967) (Tanu Priya Mishra, 2026-03-19 16:47:51 +0530)
+c271375bdb bugfix:CHOME-110431: Resolved Audio grouping page takes significant time to show the applicable list of rooms. (#8962) (nlodhi-crestron, 2026-03-17 18:28:09 +0530)
+524346ca9b Dutch String updates (#8957) (Steven Morris, 2026-03-13 14:14:42 -0700)
+e33a362fe6 CHOME-110008 - Remove the rapid query when the activity is created. (#8951) (Domuta Darius, 2026-03-13 14:42:48 +0200)
+a46c8c7b31 CHOME-110010 : Updated the access token in build.gradle used for downloading comm lib and other dependecies (#8948) (#8950) (pkamat-crestron, 2026-03-12 12:27:17 +0530)
+6c64213236 CHOME-109809 - Fix the commercial mode updates when the activity is restarted. (#8943) (Domuta Darius, 2026-03-10 13:30:36 +0200)
+aa1096a1ac CHOME-109638 : Clicking on Settings on the More menu does not launch Settings screen/Pulley Layout on first open after switching active home due to stale markedForClosing entry (#8935) (pkamat-crestron, 2026-03-06 16:33:19 +0530)
+1c8c88c0fc CHOME-109410 :  After selecting any available music services From Whole house Music tile, the page is showing with blank screen (#8931) (pkamat-crestron, 2026-03-05 19:06:46 +0530)
