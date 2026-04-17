@@ -1,0 +1,11 @@
+Phoenix Android Nightly – Version 99.4.11-12026041601
+===========================================================
+Generated on:** 2026-04-17 02:04 UTC
+Branch:** develop
+Previous commit SHA:** 762c74d808bf56bd49eca6399a20fb90461a4043
+===========================================================
+
+fb312dcd0f Fix Main navigation bar missing on TSW (#9049) (v-amorariu, 2026-04-16 18:03:53 +0300)
+8803b271ea CHOME-113154 - Add font size updates for the rapid mobile portrait mode. (#9045) (Domuta Darius, 2026-04-16 16:13:17 +0300)
+a2ad008f02 feature:CHOME-112621:Implement Channels list for “Select Channel to A… (#9048) (nlodhi-crestron, 2026-04-16 15:20:20 +0530)
+f7547e4539 CHOME-109862 - Remove deployment check in multiple display feature (#9044) (Tanu Priya Mishra, 2026-04-16 14:26:48 +0530)
