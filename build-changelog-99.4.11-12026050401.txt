@@ -1,0 +1,10 @@
+Phoenix Android Nightly – Version 99.4.11-12026050401
+===========================================================
+Generated on:** 2026-05-05 02:02 UTC
+Branch:** develop
+Previous commit SHA:** 87ffc2ac1edbb76a5cc55979ffe5333e3bf6af30
+===========================================================
+
+0f055dc642 CHOME-114651 : Add single Tracking And Framing Option (#9083) (pkamat-crestron, 2026-05-04 18:30:38 +0530)
+5e47648b29 CHOME-114666 : Handle puml change for supporting Enable/DisableTrackingFraming RPC commands (#9081) (pkamat-crestron, 2026-05-04 14:55:30 +0530)
+2ccf34261c CHOME-114450: Manage use case SendCameraCommand from UI (#9076) (Justin Aloor, 2026-05-04 14:00:59 +0530)
