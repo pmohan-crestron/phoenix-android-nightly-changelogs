@@ -1,0 +1,9 @@
+Phoenix Android Nightly – Version 99.4.11-12026050701
+===========================================================
+Generated on:** 2026-05-08 02:02 UTC
+Branch:** develop
+Previous commit SHA:** 23ccbf442e78c307f25d33bf8c784e199590446f
+===========================================================
+
+6ffcb0136e CHOME-115146 : Show Rapid Cameras tile if room contains camera (#9091) (pkamat-crestron, 2026-05-07 16:23:16 +0530)
+e293d2c4e1 [CHOME-101385] Under Thermostat scheduled event page Android is not respecting the deadband value (#9093) (v-avisan, 2026-05-07 12:44:20 +0300)
