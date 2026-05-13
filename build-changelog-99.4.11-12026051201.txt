@@ -1,0 +1,15 @@
+Phoenix Android Nightly – Version 99.4.11-12026051201
+===========================================================
+Generated on:** 2026-05-13 02:03 UTC
+Branch:** develop
+Previous commit SHA:** f0275107956486f8a8b2047ac428a7b5634db98c
+===========================================================
+
+c4c5422967 Fix Build after a PR merge and a used query got renamed (#9108) (v-amorariu, 2026-05-12 17:36:05 +0300)
+37d7daad6f Implement the Rapid Home and Room 5 inch panel layout changes. (#9107) (Domuta Darius, 2026-05-12 16:09:02 +0300)
+12db16c0e5 Feature/update settings for commercial mode (#9105) (v-amorariu, 2026-05-12 15:40:00 +0300)
+9a40951430 CHOME-113660: Mobile rapid video navigation use cases (#9098) (Tanu Priya Mishra, 2026-05-12 16:57:14 +0530)
+162b723e47 Feature/prepare fragments for rapid floating bottom bar (#9038) (v-amorariu, 2026-05-12 14:16:03 +0300)
+11b059e7dc [CHOME-109880] Volume slider is snapping when adjusting volume (#9100) (v-avisan, 2026-05-12 13:16:16 +0300)
+64998c5961 feature:CHOME-113665: Implement the speaker list and update the view … (#9106) (nlodhi-crestron, 2026-05-12 15:45:22 +0530)
+c0e19f747f CHOME-115705 : Support RequestAllCameraStateChangedEvents and StopAllCameraStateChangedEvents (#9102) (pkamat-crestron, 2026-05-12 12:31:53 +0530)
