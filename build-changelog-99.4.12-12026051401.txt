@@ -1,0 +1,9 @@
+Phoenix Android Nightly – Version 99.4.12-12026051401
+===========================================================
+Generated on:** 2026-05-15 02:02 UTC
+Branch:** develop
+Previous commit SHA:** f3af44cce85dc0b0691321b30b8dcafbdc9a2212
+===========================================================
+
+883af5fc9a Fix fullscreen command (#9109) (Jordan Silver, 2026-05-14 13:05:18 -0400)
+bdacbd0dee Enable FEATURE_FLAG_RAPID_MULTIPLE_DISPLAYS for nightly (#9112) (Jordan Silver, 2026-05-14 13:04:26 -0400)
