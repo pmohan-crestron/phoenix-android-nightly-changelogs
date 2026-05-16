@@ -1,0 +1,10 @@
+Phoenix Android Nightly – Version 99.4.12-12026051501
+===========================================================
+Generated on:** 2026-05-16 02:03 UTC
+Branch:** develop
+Previous commit SHA:** 883af5fc9acbbe81de0149e9f5b07af87a95173a
+===========================================================
+
+6461d52897 CHOME-115868 - Camera tile state integration (#9113) (pkamat-crestron, 2026-05-15 13:13:44 +0530)
+d290eaff8f CHOME-115810: Camera Back button is not properly aligned. (#9111) (Justin Aloor, 2026-05-15 12:12:46 +0530)
+8c91b3a5a7 [CHOME-115309] Implement the Multiple Dispaly Unit Tests (#9114) (v-avisan, 2026-05-15 09:28:02 +0300)
