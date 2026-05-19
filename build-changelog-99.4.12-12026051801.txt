@@ -1,0 +1,10 @@
+Phoenix Android Nightly – Version 99.4.12-12026051801
+===========================================================
+Generated on:** 2026-05-19 02:04 UTC
+Branch:** develop
+Previous commit SHA:** 6461d52897a93ecda26fa968b03d2b088d6b9af9
+===========================================================
+
+7f2531a910 CHOME-113285 - Rapid 5-inch panel bottom bar portrait mode. (#9116) (Domuta Darius, 2026-05-18 15:01:56 +0300)
+056c98b68c [CHOME-115881]  Font size for "No Source" label appears to be too small (#9115) (v-avisan, 2026-05-18 10:03:17 +0300)
+3c84d02398 CHOME-115394: Camera stream preview is not playing (#9101) (Justin Aloor, 2026-05-18 11:52:48 +0530)
