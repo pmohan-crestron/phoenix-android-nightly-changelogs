@@ -1,0 +1,10 @@
+Phoenix Android Nightly – Version 99.4.12-12026051901
+===========================================================
+Generated on:** 2026-05-20 02:02 UTC
+Branch:** develop
+Previous commit SHA:** 7f2531a910cba2ed83b2da929398c3bd0c6521d7
+===========================================================
+
+560063f999 UI updates for the rapid home and room screens and bottom bar. (#9120) (Domuta Darius, 2026-05-19 20:11:46 +0300)
+f5c82d1552 Feature/base koin update from develop to 4.x (#9121) (Steven Morris, 2026-05-19 08:30:40 -0700)
+8646daf51c CHOME-109031: Koin update from 2.x to 4.x (#8912) (Sravanth AV, 2026-05-19 08:28:24 -0500)
