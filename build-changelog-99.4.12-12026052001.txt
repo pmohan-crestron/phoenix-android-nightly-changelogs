@@ -1,0 +1,13 @@
+Phoenix Android Nightly – Version 99.4.12-12026052001
+===========================================================
+Generated on:** 2026-05-21 02:02 UTC
+Branch:** develop
+Previous commit SHA:** 560063f999d2884a475bc5456699e16208410092
+===========================================================
+
+39e96a0481 CHOME-113285 - TSW Commercial mode 5 inch bottom bar. (#9123) (Domuta Darius, 2026-05-20 21:29:12 +0300)
+f0e37ed08d Unit tests for nvx windowing (#9099) (Jordan Silver, 2026-05-20 09:49:58 -0400)
+45f04f1a11 Revert "CHOME-112975 - RapidBottomBar implementation (#9117)" (#9124) (Tanu Priya Mishra, 2026-05-20 18:00:44 +0530)
+8db7498546 CHOME-115970 : Add camera preset states support to Camera states (#9122) (pkamat-crestron, 2026-05-20 16:07:53 +0530)
+e322663485 CHOME-112975 - RapidBottomBar implementation (#9117) (Tanu Priya Mishra, 2026-05-20 13:51:05 +0530)
+76a84b970c [CHOME-115917] Power off confirmation popup layout issues (#9118) (v-avisan, 2026-05-20 09:57:42 +0300)
