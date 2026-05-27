@@ -1,0 +1,12 @@
+Phoenix Android Nightly – Version 99.4.12-12026052601
+===========================================================
+Generated on:** 2026-05-27 02:03 UTC
+Branch:** develop
+Previous commit SHA:** 9496d7096892fbef5f490e5fa680e3b766e82b2b
+===========================================================
+
+1f25f8580f CHOME-115302: Fix NVX windowing code review issues and add unit tests (#9137) (Jordan Silver, 2026-05-26 14:47:54 -0400)
+cf5d55231a Task/rapid bottom bar changes (#9143) (Tanu Priya Mishra, 2026-05-26 20:40:50 +0530)
+215576b2c6 Scaffold new Rapid feature module: rapidAirMedia (#9142) (Steven Morris, 2026-05-26 05:52:25 -0700)
+e6ec2cbfc4 CHOME-116235-Mobile - Remote Main Page settings (#9145) (Tanu Priya Mishra, 2026-05-26 15:37:42 +0530)
+6b57970a7d CHOME-116001 : CameraState Event handling  (#9126) (pkamat-crestron, 2026-05-26 12:05:46 +0530)
