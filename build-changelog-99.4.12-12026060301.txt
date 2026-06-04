@@ -1,0 +1,14 @@
+Phoenix Android Nightly – Version 99.4.12-12026060301
+===========================================================
+Generated on:** 2026-06-04 02:05 UTC
+Branch:** develop
+Previous commit SHA:** a32443461e020151d024209b4a2b56633afcae9d
+===========================================================
+
+e36a52d383 Bug/settings display blank (#9155) (Steven Morris, 2026-06-03 11:18:40 -0700)
+5b49eb4bc0 Add FEATURE_FLAG_SCHEDULING_SERVICE feature flag (#9162) (v-amorariu, 2026-06-03 17:49:32 +0300)
+6b3d357658 [CHOME-116263] Implement new Single / Multiple display flows at active media page level (Tanu Priya Mishra, 2026-06-03 19:32:34 +0530)
+420c368489 Fix WiFi settings not shown on 15-inch panels (CHOME-117098) (#9158) (Jordan Silver, 2026-06-03 09:31:42 -0400)
+003efa7fa6 Add QA automation testTags to Rapid Room screen (#9148) (v-amorariu, 2026-06-03 16:14:08 +0300)
+e9ba06050e [CHOME-116233] Implement Single Display Native UI and Remote Control — 5 inch Touchscreen Portrait Layout Support (Tanu Priya Mishra, 2026-06-03 17:54:25 +0530)
+db7937edac [CHOME-116664] UI Improvements for D-Pad Remote Buttons and Icon Alignment in Single & Multiple Display Modes (Tanu Priya Mishra, 2026-06-03 12:31:35 +0530)
