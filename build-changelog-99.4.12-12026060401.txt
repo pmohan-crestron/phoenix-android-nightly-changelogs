@@ -1,0 +1,9 @@
+Phoenix Android Nightly – Version 99.4.12-12026060401
+===========================================================
+Generated on:** 2026-06-05 02:02 UTC
+Branch:** develop
+Previous commit SHA:** e36a52d38372515fa7bf77f844efedf460d14d03
+===========================================================
+
+f269b99615 Feature/add meeting spaces rpc implementation (#9164) (v-amorariu, 2026-06-04 15:21:14 +0300)
+d02b3549ea Fix CHOME-117173: Call requestAllStateChangedEvents on every connection (#9160) (pkamat-crestron, 2026-06-04 10:27:23 +0530)
