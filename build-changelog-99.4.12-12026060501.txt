@@ -1,0 +1,10 @@
+Phoenix Android Nightly – Version 99.4.12-12026060501
+===========================================================
+Generated on:** 2026-06-06 02:06 UTC
+Branch:** develop
+Previous commit SHA:** f269b99615e8d4219f2cd014cd59b3afc7a96af5
+===========================================================
+
+bca8a1576f Fix meeting spaces feature flag (#9168) (v-amorariu, 2026-06-05 15:52:15 +0300)
+903e5568e9 [CHOME-116241] Implement multiple sources list scrolling behavior  (#9166) (Tanu Priya Mishra, 2026-06-05 12:13:09 +0530)
+1a9baf1c8c CHOME-116654: RapidCamera: Make AUTO toggle based on Capabilities (#9153) (Justin Aloor, 2026-06-05 11:56:56 +0530)
