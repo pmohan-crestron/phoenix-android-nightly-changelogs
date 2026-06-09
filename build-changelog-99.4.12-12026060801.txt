@@ -1,0 +1,9 @@
+Phoenix Android Nightly – Version 99.4.12-12026060801
+===========================================================
+Generated on:** 2026-06-09 02:02 UTC
+Branch:** develop
+Previous commit SHA:** bca8a1576f07f64128dd4d46de6d3617f07f9cad
+===========================================================
+
+0de84b36b0 Feature/chome 116459 room calendar cards (#9169) (Domuta Darius, 2026-06-08 15:36:37 +0300)
+74adeb313e Feature/add qa automation identifier on rapid home (#9171) (v-amorariu, 2026-06-08 15:20:37 +0300)
