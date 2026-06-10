@@ -1,0 +1,12 @@
+Phoenix Android Nightly – Version 99.4.12-12026060901
+===========================================================
+Generated on:** 2026-06-10 02:03 UTC
+Branch:** develop
+Previous commit SHA:** 0de84b36b01d919a6b6582cb528a523ea8424c7a
+===========================================================
+
+279eb65640 CHOME-116049: Fix logic for audio focus cell buttons in windowing to match display card rule for mulitple displays fullscreen (#9174) (Jordan Silver, 2026-06-09 09:33:06 -0400)
+9d60009bb1 [CHOME-117192] Implement Remote Control Mobile Layout Support - Advanced speaker settings (Tanu Priya Mishra, 2026-06-09 17:24:52 +0530)
+8ead8ce670 Add DGE devices support scale factor (#9167) (v-amorariu, 2026-06-09 13:40:41 +0300)
+80a47b492b CHOME-117501: Make preset selection based on capability PresetActiveFeedback (#9173) (Justin Aloor, 2026-06-09 13:20:47 +0530)
+6750991dce Feature/chome 116560 android active sessions (#9165) (Steven Morris, 2026-06-08 20:40:53 -0700)
