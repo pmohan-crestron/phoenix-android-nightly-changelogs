@@ -1,0 +1,9 @@
+Phoenix Android Nightly – Version 99.4.12-12026061001
+===========================================================
+Generated on:** 2026-06-11 02:02 UTC
+Branch:** develop
+Previous commit SHA:** 279eb65640b5f92e2a3b91c8ac95e543100b6711
+===========================================================
+
+afb49dfed2 CHOME-117261 : Ways to present screen changes  (#9178) (Sravanth AV, 2026-06-10 09:50:29 -0500)
+03707f9667 CHOME-116560 - Preserve Active Sessions layout and styling across inset changes:(#9177) (Steven Morris, 2026-06-09 20:58:52 -0700)
