@@ -1,0 +1,11 @@
+Phoenix Android Nightly – Version 99.4.12-12026061101
+===========================================================
+Generated on:** 2026-06-12 02:01 UTC
+Branch:** develop
+Previous commit SHA:** afb49dfed2a10c69e498b0f4da3d209789249c52
+===========================================================
+
+dd5a35d918 CHOME-116348 - Calendar ad hoc booking. (#9184) (Domuta Darius, 2026-06-11 14:57:34 +0300)
+fb12a89686 CHOME-117379: One tap on PTZ control sends 2 commands (#9170) (Justin Aloor, 2026-06-11 11:00:05 +0530)
+ecb94bcae8 [CHOME-116245] Implement Remote Control Mobile Layout Support - Change Preset Flow (Tanu Priya Mishra, 2026-06-11 10:58:23 +0530)
+34d05dc711 [CHOME-116229] Implement Remote Control Mobile Layout Support - Edit Preset Flow (#9179) (Tanu Priya Mishra, 2026-06-11 10:57:36 +0530)
