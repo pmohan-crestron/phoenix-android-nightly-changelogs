@@ -1,0 +1,11 @@
+Phoenix Android Nightly – Version 99.4.12-12026061201
+===========================================================
+Generated on:** 2026-06-13 02:02 UTC
+Branch:** develop
+Previous commit SHA:** dd5a35d918fb69ccd50ec6401804d4603461cb8a
+===========================================================
+
+e3150d404c CHOME-117768: Hold buttons should keep an interval of 500ms between consecutive emissions (#9183) (Justin Aloor, 2026-06-12 12:43:37 +0530)
+4af1d9c46c Fix/load meetings list on startup (#9190) (v-amorariu, 2026-06-12 10:03:18 +0300)
+9095dcf2a6 Fix potential subscription/memory leak (#9182) (Steven Morris, 2026-06-11 21:11:58 -0700)
+2fbb7849bb feature:CHOME-116213: DGE || Identify Displays and Devices Supporting… (#9185) (nlodhi-crestron, 2026-06-12 09:24:41 +0530)
