@@ -1,0 +1,9 @@
+Phoenix Android Nightly – Version 99.4.12-12026061601
+===========================================================
+Generated on:** 2026-06-17 02:03 UTC
+Branch:** develop
+Previous commit SHA:** 5782b0350f20bf3098f1302f4e9813d00f16c8c2
+===========================================================
+
+284937c596 CHOME-118160: Hide Camera Controls if capabilities are absent (#9194) (Justin Aloor, 2026-06-16 15:40:59 +0530)
+68729b8c11 Feature/chome 117220 active session card  compose previews for switcher card (#9189) (Sravanth AV, 2026-06-15 22:09:28 -0500)
