@@ -1,0 +1,12 @@
+Phoenix Android Nightly – Version 99.4.12-12026061701
+===========================================================
+Generated on:** 2026-06-18 02:04 UTC
+Branch:** develop
+Previous commit SHA:** 284937c59628d47783422da400094caa23659068
+===========================================================
+
+990f4393ce CHOME-114800: Fix Logic error with systems with keypads and areas (#9188) (Jordan Silver, 2026-06-17 16:11:13 -0400)
+958be5b56f [CHOME-116725] String fix (#9201) (v-avisan, 2026-06-17 12:54:15 +0300)
+dd9005130b CHOME-118316 : At times two streaming requests are sent for same source" (#9196) (pkamat-crestron, 2026-06-17 13:38:35 +0530)
+c45a656e1d feature:CHOME-116214: DGE || Display Card: Live Video Preview & State (#9197) (nlodhi-crestron, 2026-06-17 11:49:32 +0530)
+c06d99abdf Feature/chome 117614 android lights control (#9199) (Steven Morris, 2026-06-16 22:00:25 -0700)
