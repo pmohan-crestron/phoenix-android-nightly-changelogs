@@ -1,0 +1,9 @@
+Phoenix Android Nightly – Version 99.4.12-12026061801
+===========================================================
+Generated on:** 2026-06-19 02:02 UTC
+Branch:** develop
+Previous commit SHA:** 990f4393cec5973196494858e3dc3514fc743f8d
+===========================================================
+
+6db53d4bf7 DGE || Full Screen: Button & Navigation Behavior (#9203) (nlodhi-crestron, 2026-06-18 17:58:26 +0530)
+8bb969cfd2 CHOME-117698 - UI Improvements for Single Display & NVX Windowing (#9200) (Tanu Priya Mishra, 2026-06-18 11:33:17 +0530)
