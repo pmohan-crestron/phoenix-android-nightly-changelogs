@@ -1,0 +1,10 @@
+Phoenix Android Nightly – Version 99.4.12-12026061901
+===========================================================
+Generated on:** 2026-06-20 02:02 UTC
+Branch:** develop
+Previous commit SHA:** 6db53d4bf7b4b7b63557509b5ca27cedc9bf7ef6
+===========================================================
+
+74f9c68993 CHOME-118733: Remove koin2ViewModel shim, use koinViewModel directly (#9202) (Steven Morris, 2026-06-19 15:23:21 -0700)
+a9fa68a9db Feature/chome 117615 android shades control (#9204) (Steven Morris, 2026-06-19 10:47:32 -0700)
+f15ff21114 Feature/add no calendar configured handling (#9207) (v-amorariu, 2026-06-19 16:22:10 +0300)
