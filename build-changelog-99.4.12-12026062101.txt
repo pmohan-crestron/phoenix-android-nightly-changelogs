@@ -1,0 +1,8 @@
+Phoenix Android Nightly – Version 99.4.12-12026062101
+===========================================================
+Generated on:** 2026-06-22 02:03 UTC
+Branch:** develop
+Previous commit SHA:** 74f9c68993b95dc2edb6d47aba5dbda881afa865
+===========================================================
+
+2d02aa647a CHOME-118350: Disconnect pop-up for ActiveSessions card (#9205) (Sravanth AV, 2026-06-20 23:23:33 -0500)
