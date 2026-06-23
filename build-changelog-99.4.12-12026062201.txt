@@ -1,0 +1,12 @@
+Phoenix Android Nightly – Version 99.4.12-12026062201
+===========================================================
+Generated on:** 2026-06-23 02:02 UTC
+Branch:** develop
+Previous commit SHA:** 2d02aa647a30ac5763fefad20c422cc2cda163c0
+===========================================================
+
+42a2181a51 CHOME-118909: Camera: Error page to be rendered when deviceState = Offline (#9206) (Justin Aloor, 2026-06-22 15:45:25 +0530)
+fa2ceed21d Single Display fixes according to figma for all devices (#9211) (Tanu Priya Mishra, 2026-06-22 15:37:51 +0530)
+678556ba1d CHOME-118917  Support for TSW 570 (#9208) (pkamat-crestron, 2026-06-22 15:05:18 +0530)
+2522dc3f6b Tune source tile and remote layouts (#9209) (Tanu Priya Mishra, 2026-06-22 11:32:46 +0530)
+7919c3c0cc CHOME-116158: Remove Debug menu and all related code. (#9144) (Justin Aloor, 2026-06-22 10:42:45 +0530)
