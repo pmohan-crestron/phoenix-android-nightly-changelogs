@@ -1,0 +1,8 @@
+Phoenix Android Nightly – Version 99.4.12-12026062301
+===========================================================
+Generated on:** 2026-06-24 02:02 UTC
+Branch:** develop
+Previous commit SHA:** 42a2181a518d34c4f42ee3e7744f1e11ef9bbbea
+===========================================================
+
+d190075520 CHOME-119289 : Changes as per testing on DGE device (#9212) (pkamat-crestron, 2026-06-23 15:12:07 +0530)
