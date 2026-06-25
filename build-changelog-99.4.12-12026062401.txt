@@ -1,0 +1,9 @@
+Phoenix Android Nightly – Version 99.4.12-12026062401
+===========================================================
+Generated on:** 2026-06-25 02:03 UTC
+Branch:** develop
+Previous commit SHA:** d190075520b53f5246108a4f7ac1d3ac754afa2f
+===========================================================
+
+0ebf080de2 Feature/add qa automation ids for room calendar components (#9214) (v-amorariu, 2026-06-24 15:47:18 +0300)
+dd957c84d6 Fix the calendar title spacing. (#9215) (Domuta Darius, 2026-06-24 14:49:24 +0300)
