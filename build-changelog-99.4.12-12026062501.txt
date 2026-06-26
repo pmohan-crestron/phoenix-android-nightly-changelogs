@@ -1,0 +1,10 @@
+Phoenix Android Nightly – Version 99.4.12-12026062501
+===========================================================
+Generated on:** 2026-06-26 02:03 UTC
+Branch:** develop
+Previous commit SHA:** 0ebf080de237c9774f01e44215b0eb1586987b27
+===========================================================
+
+d54ffdb0d3 feature:CHOME-119530: resolve [TST] VideoDetailViewModel Koin InstanceCreationException crash on video detail screen (#9224) (nlodhi-crestron, 2026-06-25 17:07:26 +0530)
+0300404c58 570-land singledisplay (#9219) (Tanu Priya Mishra, 2026-06-25 16:55:35 +0530)
+46cd3611fd CHOME-112206: [Mic] Integrate use cases with ViewModel (#9210) (Justin Aloor, 2026-06-25 12:22:32 +0530)
