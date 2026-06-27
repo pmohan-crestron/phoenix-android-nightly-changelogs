@@ -1,0 +1,11 @@
+Phoenix Android Nightly – Version 99.4.12-12026062601
+===========================================================
+Generated on:** 2026-06-27 02:03 UTC
+Branch:** develop
+Previous commit SHA:** d54ffdb0d3822fda2391adac8fb997261b1a2a3b
+===========================================================
+
+f848601585 feature:CHOME-117894: resolve Dynamic Volume Bar Behavior Based on So… (#9228) (nlodhi-crestron, 2026-06-26 16:07:18 +0530)
+2ec64d12b6 [CHOME-119540] Avoid hardcoded SP sizes in the composable code (#9227) (Tanu Priya Mishra, 2026-06-26 13:45:25 +0530)
+4bcf7333e2 CHOME-119498 : Fix failing RapidCameras Koin tests (#9221) (pkamat-crestron, 2026-06-26 10:58:02 +0530)
+3bb629fc70 [CHOME-119497] Android: ActiveMediaModuleKoinTest fails (missing QueryHasRapidVideos binding in DI test stubs) (#9222) (Tanu Priya Mishra, 2026-06-26 10:44:49 +0530)
