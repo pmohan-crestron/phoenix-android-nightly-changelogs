@@ -1,0 +1,13 @@
+Phoenix Android Nightly – Version 99.4.12-12026063001
+===========================================================
+Generated on:** 2026-07-01 02:06 UTC
+Branch:** develop
+Previous commit SHA:** f84860158564bf27d5e62f9dbb31980f89cf32b9
+===========================================================
+
+01f56a5952 Update MeetingSpaces Api RPC to the latest PUML file (#9236) (v-amorariu, 2026-06-30 17:13:57 +0300)
+a003199b70 CHOME-69151 - Move the calendar component into the rapid room header. (#9229) (Domuta Darius, 2026-06-30 17:01:28 +0300)
+32e3d8089f Feature/migrate meeting spaces source to repository (#9230) (v-amorariu, 2026-06-30 14:20:49 +0300)
+dc35a4ca98 CHOME-119529 : Mics - Viewmodel and Repository integration (#9223) (pkamat-crestron, 2026-06-30 16:41:27 +0530)
+51b3175d23 [CHOME-117893] 570-Landscape Remote Screen TopBar (#9232) (Tanu Priya Mishra, 2026-06-30 11:06:38 +0530)
+69a169b547 Document Koin DI conventions and enhance rapid scaffolder (#9220) (Steven Morris, 2026-06-29 08:13:12 -0700)
