@@ -1,0 +1,8 @@
+Phoenix Android Nightly – Version 99.4.12-12026070903
+===========================================================
+Generated on:** 2026-07-10 02:03 UTC
+Branch:** develop
+Previous commit SHA:** 65ee83e2b9695affc89ea85f99a5b6ea6a904e54
+===========================================================
+
+383341667b CHOME-120500 - Set density scaling inside the CrestronTheme and deprecate contentScalingFactor. (#9280) (Domuta Darius, 2026-07-09 18:03:48 +0300)
