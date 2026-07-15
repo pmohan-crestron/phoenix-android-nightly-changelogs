@@ -1,0 +1,14 @@
+Phoenix Android Nightly – Version 99.4.12-12026071401
+===========================================================
+Generated on:** 2026-07-15 02:02 UTC
+Branch:** develop
+Previous commit SHA:** e3811b6519f186caf8c2d76315e60c9a183d35de
+===========================================================
+
+f2d3aff1e3 Merge pull request #9296 from Crestron/bugfix/CHOME-120576 (Sunil Aruru, 2026-07-14 18:52:57 +0530)
+41b39642c7 Resolve merge conflicts (Sunil Aruru, 2026-07-14 17:02:21 +0530)
+ded9ca81d4 CHOME-120496&CHOME-120498: Changes to QueryMicrophones & QueryHasMicrophones (#9287) (Justin Aloor, 2026-07-14 16:45:47 +0530)
+730e31fa2e Merge branch 'develop' into bugfix/CHOME-120576 (Sunil Aruru, 2026-07-14 16:22:34 +0530)
+ae74727f3e [CHOME-120568] hide more button from video tile (#9298) (Tanu Priya Mishra, 2026-07-14 15:20:00 +0530)
+83d75214a5 CHOME-120576: Address review feedback on remote title alignment (Sunil Aruru, 2026-07-13 18:20:15 +0530)
+5cae76d083 CHOME-120576: Fix the remote title alignment. (Sunil Aruru, 2026-07-13 17:14:44 +0530)
