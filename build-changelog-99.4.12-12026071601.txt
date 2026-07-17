@@ -1,0 +1,12 @@
+Phoenix Android Nightly – Version 99.4.12-12026071601
+===========================================================
+Generated on:** 2026-07-17 02:03 UTC
+Branch:** develop
+Previous commit SHA:** 440c8c98ac4670b5f3f7a85c81b9ba768cc96c3b
+===========================================================
+
+aa1f901b46 Feature/chome 119514 test health restore unit (#9310) (Steven Morris, 2026-07-16 09:24:48 -0700)
+ea6116d76e CAAD-429: Run incremental translation by ADO build 1707443 (pmohan-crestron, 2026-07-16 16:22:08 +0530)
+d16998813b CHOME-120639: Implement Mic service Tile OFFLINE state (#9304) (Justin Aloor, 2026-07-16 15:36:39 +0530)
+f1bd289a00 Feature/room calendar overlapped meetings handling (#9309) (v-amorariu, 2026-07-16 11:31:10 +0300)
+d3029c777b CHOME-120733 - Add touchpanel font scaling support inside the Crestron Theme. (#9308) (Domuta Darius, 2026-07-16 10:27:43 +0300)
