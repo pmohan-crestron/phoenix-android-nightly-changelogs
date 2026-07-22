@@ -1,0 +1,19 @@
+Phoenix Android Nightly – Version 99.4.12-12026072101
+===========================================================
+Generated on:** 2026-07-22 02:30 UTC
+Branch:** develop
+Previous commit SHA:** 0c4214ebaf04d710e6d913cc212570bfe6ee019d
+===========================================================
+
+c134bccbe4 Update material from '1.1.0' to '1.11.0' (#9323) (Sravanth AV, 2026-07-21 08:31:45 -0500)
+e9aa23a334 CAAD-454: Serbian (sr) translations mix Cyrillic and Latin script inconsistently within the same locale - ADO Pipeline 1711242 (Veeranna Iyle, 2026-07-21 17:53:11 +0530)
+099e6c36b6 CHOME-104434 : Optimize WholeHouseLights : fix view/adapter leaks - 3 (#9319) (pkamat-crestron, 2026-07-21 15:08:33 +0530)
+948adc32b9 Manual fix (parity pass): fix remaining stray Latin letters in Android Serbian strings (Veeranna Iyle, 2026-07-21 13:37:24 +0530)
+ebc9a064f5 Manual fix: restore Serbian translatable=false identifiers + fix stray Latin w/y/q glitches (Veeranna Iyle, 2026-07-21 13:12:07 +0530)
+09aa7612b1 feature:CHOME-120767: resolve [Unit Test] LocalAddUserPresenter success flows trigger both a success toast and an error toast (#9325) (nlodhi-crestron, 2026-07-21 12:37:17 +0530)
+a6c1f055cf [CHOME-120804] Add Albanian, Croatian, Serbian, Turkish, Ukrainian TSW languages (#9320) (Tanu Priya Mishra, 2026-07-21 12:30:01 +0530)
+6b7de61f38 [TRANSLATIONS] Automation: Importing processed translations (ch-translation-automation, 2026-07-21 06:31:59 +0000)
+1ca892af79 CHOME-120734: Microphone screen Enhancements (#9314) (Justin Aloor, 2026-07-21 11:27:06 +0530)
+eb317566ac CHOME-104434 : Performance: Optimize QueryAllRoomsWithStatuses - 2 (#9312) (pkamat-crestron, 2026-07-21 11:07:13 +0530)
+5bf5437d0e CHOME-104434 : Performance improvements : Fix Lottie animator leaks and cache swatch gradients in commonui - 1 (#9311) (pkamat-crestron, 2026-07-21 11:06:38 +0530)
+2956f80dce feature:CHOME-120767: resolve LocalEditUserNamePresenter success path shows an empty toast before the success toast (#9318) (nlodhi-crestron, 2026-07-21 09:19:30 +0530)
