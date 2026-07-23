@@ -1,0 +1,11 @@
+Phoenix Android Nightly – Version 99.4.12-12026072201
+===========================================================
+Generated on:** 2026-07-23 02:02 UTC
+Branch:** develop
+Previous commit SHA:** c134bccbe4ec0855f89d383f078b1527d58029e5
+===========================================================
+
+a71d90347d [CHOME-120946] touchpanel Setup Wizard firmware does not yet support Albanian/ Ukrainian, so hide them from the Settings language picker until the new flag is turned on. (Tanu Priya Mishra, 2026-07-22 18:51:27 +0530)
+bbf9de9978 CHOME-120968: Fix meetingspaces missing translation coverage (28 of 33 locales) (#9331) (Veeranna Iyle, 2026-07-22 18:24:17 +0530)
+4081501957 Add Calendar Ad-Hoc booking loading indicator (#9327) (v-amorariu, 2026-07-22 10:00:58 +0300)
+be1ceafe28 Fix/lighting scenes reorde unit tests (#9328) (v-amorariu, 2026-07-22 09:39:12 +0300)
