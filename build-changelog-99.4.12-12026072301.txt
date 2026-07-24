@@ -1,0 +1,10 @@
+Phoenix Android Nightly – Version 99.4.12-12026072301
+===========================================================
+Generated on:** 2026-07-24 02:02 UTC
+Branch:** develop
+Previous commit SHA:** a71d90347d66987db62ca9b8f30fe181a81d9fac
+===========================================================
+
+1161f05cf2 Feature/fix lights and shcheduled events unit tests (#9322) (Domuta Darius, 2026-07-23 16:50:32 +0300)
+7cd03ca839 CHOME-118862-Pool page header color mismatch in dark mode (#9337) (Sravanth AV, 2026-07-23 08:40:14 -0500)
+80997b2be1 [CHOME-120945] Restrict packaged locales via resConfigs so Albanian/Ukrainian fall back to English (Tanu Priya Mishra, 2026-07-23 10:38:45 +0530)
