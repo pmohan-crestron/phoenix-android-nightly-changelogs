@@ -1,0 +1,10 @@
+Phoenix Android Nightly – Version 99.4.12-12026072401
+===========================================================
+Generated on:** 2026-07-25 02:02 UTC
+Branch:** develop
+Previous commit SHA:** 1161f05cf2c06d9bb43314db2ffb70f690074634
+===========================================================
+
+6bd0f0f999 Fix commercial mode server connecting state (#9343) (v-amorariu, 2026-07-24 15:58:04 +0300)
+f28cc80262 CHOME-120893 - Add commercial mode calendar show/hide option in setti… (#9335) (Domuta Darius, 2026-07-24 10:39:42 +0300)
+a1d8cc02f9 Fix/calendar book available space now (#9340) (v-amorariu, 2026-07-24 09:42:59 +0300)
