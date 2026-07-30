@@ -1,0 +1,10 @@
+Phoenix Android Nightly – Version 99.4.12-12026072901
+===========================================================
+Generated on:** 2026-07-30 02:04 UTC
+Branch:** develop
+Previous commit SHA:** 16404be6ff9e8e953420e2d687ebae26c0b98b4d
+===========================================================
+
+e06515adc2 fix(featureflags): add FEATURE_FLAG_WEATHER to Nightly/Beta/RC deployment files [CHOME-121524] (#9359) (sabtain-khan-crestron, 2026-07-29 14:47:19 -0500)
+32e5620656 CHOME-120646 - Update the branding image position in the rapid screens. (#9347) (Domuta Darius, 2026-07-29 17:22:34 +0300)
+c91fbadd7a Chome 118648-android not rendering alticontext (#9342) (Sravanth AV, 2026-07-29 08:33:22 -0500)
