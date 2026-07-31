@@ -1,0 +1,12 @@
+Phoenix Android Nightly – Version 99.4.12-12026073001
+===========================================================
+Generated on:** 2026-07-31 02:04 UTC
+Branch:** develop
+Previous commit SHA:** e06515adc2acf66b8fdaba7a1088f09cf11dc8c1
+===========================================================
+
+2028ae211e Fix ADR 0004 to match Confluence  (#9360) (Steven Morris, 2026-07-30 08:52:52 -0700)
+c6b441dd39 Feature/chome 120720 (#9324) (Steven Morris, 2026-07-30 08:33:04 -0700)
+cb6672f871 Fix/view model initialize safeguard (#9357) (Domuta Darius, 2026-07-30 16:33:15 +0300)
+7754b831a2 Bugfix:CHOME-111759: (Max System/Panel Performance) Active Media Room… (#9355) (nlodhi-crestron, 2026-07-30 13:33:09 +0530)
+d5e086fd7a CHOME-121277: Improve performance on Rooms and Room Details screens (#9356) (pkamat-crestron, 2026-07-30 13:02:17 +0530)
