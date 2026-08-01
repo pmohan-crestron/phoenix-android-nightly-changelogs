@@ -1,0 +1,14 @@
+Phoenix Android Nightly – Version 99.4.12-12026073101
+===========================================================
+Generated on:** 2026-08-01 02:04 UTC
+Branch:** develop
+Previous commit SHA:** 2028ae211e7fd486c0564d77a313d5476fcfeaf8
+===========================================================
+
+281b399a65 Enable Multiple Displays Feature flag for Beta (#9373) (Jordan Silver, 2026-07-31 15:00:52 -0400)
+4310014d4a Feature/chome 121605 glossary extension term (#9362) (Steven Morris, 2026-07-31 07:22:10 -0700)
+7dec3d72f6 feat(rapidlights): PR 1/7 - shared UI foundation & design-system enhancements (#9348) (Steven Morris, 2026-07-31 06:30:46 -0700)
+40faa4db4c CHOME-121168: Mics: Replace content desc with test tags. (#9358) (Justin Aloor, 2026-07-31 17:31:14 +0530)
+2c6dffd416 Fix the rapid room and home screens font paddings. (#9365) (Domuta Darius, 2026-07-31 14:50:22 +0300)
+ba7d88c6cd CHOME-112407 : Code optimization to fix excessive GC pressure (#9024) (pkamat-crestron, 2026-07-31 16:19:57 +0530)
+bf06246541 Bugfix:CHOME-120432: Resolve Android: RemoteTVJoyStickPad does not match Figma (center shadow layer + dot spacing) (#9364) (nlodhi-crestron, 2026-07-31 12:18:18 +0530)
