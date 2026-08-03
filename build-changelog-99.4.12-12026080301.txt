@@ -1,0 +1,8 @@
+Phoenix Android Nightly – Version 99.4.12-12026080301
+===========================================================
+Generated on:** 2026-08-03 06:18 UTC
+Branch:** CHOME-121648-weather-subscription-key
+Previous commit SHA:** 281b399a65324f0a8f8f9c5ba51e22679411390b
+===========================================================
+
+084e107975 fix(weatherlib): fail the build when the weather subscription key is missing [CHOME-121648] (sabtain-khan-crestron, 2026-07-31 14:28:23 -0500)
