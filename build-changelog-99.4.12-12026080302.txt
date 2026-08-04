@@ -1,0 +1,13 @@
+Phoenix Android Nightly – Version 99.4.12-12026080302
+===========================================================
+Generated on:** 2026-08-04 02:04 UTC
+Branch:** develop
+Previous commit SHA:** 084e1079753ff89d60dfab2db02fcbf77885ee61
+===========================================================
+
+27744212e8 Feature/repository pattern instructions  (#9372) (Steven Morris, 2026-08-03 15:11:38 -0700)
+a70a9d115c [CHOME-121687] Help icon should not be shown on single display UI (#9376) (Tanu Priya Mishra, 2026-08-03 18:30:00 +0530)
+15d595c15a [CHOME-121077] Volume Control on TV is reversed, minus raises the sound and plus lowers the sound (Tanu Priya Mishra, 2026-08-03 16:28:57 +0530)
+692a4f111b CHOME-121620 : Updated Spaces Camera implementation for new API Version as per PUML (#9366) (pkamat-crestron, 2026-08-03 15:22:57 +0530)
+034c6330e5 CHOME-121539 - Add the rapid rooms fragment backbone module and routing logic. (#9313) (Domuta Darius, 2026-08-03 12:11:07 +0300)
+066cd7c48a CHOME-121538: Camera: Replace content desc with test tags (#9361) (Justin Aloor, 2026-08-03 11:21:07 +0530)
