@@ -1,0 +1,13 @@
+Phoenix Android Nightly – Version 99.4.12-12026080401
+===========================================================
+Generated on:** 2026-08-05 02:05 UTC
+Branch:** develop
+Previous commit SHA:** 27744212e866369b94c6de0ba56e57f50d170e07
+===========================================================
+
+f9ada2b52d Merge pull request #9352 from Crestron/hotfix/post-4.11 (Jordan Silver, 2026-08-04 11:42:44 -0400)
+98cc7e5ece fix(weatherlib): fail the build when the weather subscription key is missing [CHOME-121648] (#9374) (sabtain-khan-crestron, 2026-08-04 09:00:38 -0500)
+e26b818282 Bugfix:CHOME-121514: [Product Feedback] D-PAD on new remote UI in the… (#9378) (nlodhi-crestron, 2026-08-04 10:41:35 +0530)
+01631cd43a [CHOME-118930] hard buttons are not functioning on the TSS-770 UI Panel (Tanu Priya Mishra, 2026-07-07 17:45:21 +0530)
+6180280e08 Bugfix:CHOME-118646: Resolve Android display incorrect icons for Open/Close when movement is "BottomToTop" (#9279) (nlodhi-crestron, 2026-07-07 16:28:47 +0530)
+0261537e41 Merge branch 'release/4.11' of https://github.com/Crestron/mobile-android-phoenix into release/4.11 (jsilver, 2026-06-10 15:42:22 -0400)
