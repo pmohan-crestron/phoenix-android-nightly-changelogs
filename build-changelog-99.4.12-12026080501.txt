@@ -1,0 +1,19 @@
+Phoenix Android Nightly – Version 99.4.12-12026080501
+===========================================================
+Generated on:** 2026-08-06 02:03 UTC
+Branch:** develop
+Previous commit SHA:** f9ada2b52dc6f2ce5ea4fd36174112a76521278b
+===========================================================
+
+6e89160c6c Merge pull request #9349 from Crestron/chome-120521/02-lightslib-repository (Steven Morris, 2026-08-05 08:25:03 -0700)
+61884c9763 refactor(lightslib,sceneslib): replace per-room ConcurrentHashMap caches with house-wide streams (Steven Morris, 2026-08-03 16:18:02 -0700)
+3b7cf44c77 Extract ScenesRepository into sceneslib; drop scenes from LightingRepository (Steven Morris, 2026-08-03 09:24:04 -0700)
+a16e32551d refactor(lightslib): pivot LightingRepositoryImpl's scenes read chain off legacy usecases too (Steven Morris, 2026-07-31 12:56:18 -0700)
+f9249242b3 refactor(lightslib): pivot LightingRepositoryImpl off legacy usecases onto LightsSource directly (Steven Morris, 2026-07-31 11:25:34 -0700)
+807f51edac refactor(lightslib): extract Repository data classes into model/ as LoadCardEntity (Steven Morris, 2026-07-31 09:51:24 -0700)
+7f44599920 test(lightslib): use assertTrue over assertEquals(true, ...) in PyngReadinessSource test (Steven Morris, 2026-07-30 10:45:45 -0700)
+79c108e49a feat(lightslib): PR 2/7 - Rapid lighting Repository foundation (Steven Morris, 2026-07-29 10:44:58 -0700)
+4bb0e570ba [CHOME-121517] Bottom toolbar element (#9380) (Tanu Priya Mishra, 2026-08-05 17:15:28 +0530)
+0415e0b467 CHOME-120772 : Fix for Control Tiles are missing from the Android nightly. (#9386) (pkamat-crestron, 2026-08-05 17:09:25 +0530)
+8347828639 CHOME-121719 : Updated the Communication lib version with fix for UDP log flood and other optimizations (#9379) (pkamat-crestron, 2026-08-05 15:53:08 +0530)
+d87dde7533 CHOME-121686: Advanced Settings-Show Controls-Add toggle for Mic (#9377) (Justin Aloor, 2026-08-05 14:12:00 +0530)
