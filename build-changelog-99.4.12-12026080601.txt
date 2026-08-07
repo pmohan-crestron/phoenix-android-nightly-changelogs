@@ -1,0 +1,27 @@
+Phoenix Android Nightly – Version 99.4.12-12026080601
+===========================================================
+Generated on:** 2026-08-07 02:04 UTC
+Branch:** develop
+Previous commit SHA:** 6e89160c6c2da56387df6e12dae64d225e60bd35
+===========================================================
+
+8fcfeb409a chome 120521/07 integration (#9370) (Steven Morris, 2026-08-06 15:28:04 -0700)
+c80f69549b fix(weatherlib): send weather subscription key via ClientId header (CHOME-121267) (#9390) (sabtain-khan-crestron, 2026-08-06 15:32:29 -0500)
+d32523b3d4 chome 120521/06 rapidlights viewmodel (#9369) (Steven Morris, 2026-08-06 13:16:48 -0700)
+5b95f4bc52 feat(rapidlights): PR 5/7 - Rapid Lights Compose components & UI models (#9368) (Steven Morris, 2026-08-06 11:35:17 -0700)
+0553f9db8d feat(lightslib): PR 4/7 - Rapid lighting command use cases (#9367) (Steven Morris, 2026-08-06 10:10:42 -0700)
+aa5a71c4f3 Merge pull request #9350 from Crestron/chome-120521/03-lightslib-read-usecases (Steven Morris, 2026-08-06 07:27:41 -0700)
+de2548e247 CHOME-121691: Global Mute icon: Gate visibility on toggle (#9385) (Justin Aloor, 2026-08-06 17:00:51 +0530)
+11648d63dd CHOME-121856: Microphone screen: Back button crops at top & Bottom (#9387) (Justin Aloor, 2026-08-06 16:59:11 +0530)
+1c877d5269 CHOME-121938 : [SpacesCamera][Android] Update to match latest puml (#9391) (pkamat-crestron, 2026-08-06 15:16:18 +0530)
+4afc78b955 Fix/calendar settings visibility on small screen devices (#9388) (v-amorariu, 2026-08-06 11:24:37 +0300)
+fd8db59b42 [CHOME-121728] Source In Use size increased (#9389) (Tanu Priya Mishra, 2026-08-06 11:17:23 +0530)
+7e451fd9b8 CHOME-121690: Mics tile : Gate microphone controls visibility on the … (#9381) (Justin Aloor, 2026-08-06 11:10:11 +0530)
+3a8259a1d7 refactor(lightslib,sceneslib): move ObserveScenesUseCase/GetIsMaxScenesReachedUseCase to sceneslib (Steven Morris, 2026-08-04 10:30:35 -0700)
+b979f0a92a refactor(lightslib): repoint GetIsMaxLightScenesReachedUseCase to ScenesRepository.getScenes (Steven Morris, 2026-08-03 16:21:52 -0700)
+e87df7d04b Repoint scene-consuming UseCases from LightingRepository to ScenesRepository (Steven Morris, 2026-08-03 09:39:34 -0700)
+3c113355a9 refactor(lightslib): drop UseCase suffix from ObserveColorControlsEnabled (Steven Morris, 2026-07-31 14:59:15 -0700)
+c7a89fae0b feat(lightslib): gate ObserveLightScenesUseCase on the LIGHTS subsystem's hidden state (Steven Morris, 2026-07-31 13:23:53 -0700)
+3587ffd2f1 feat(lightslib): gate ObserveLightLoadCardsUseCase/ObserveLightingMastersUseCase on room visibility (Steven Morris, 2026-07-31 11:47:23 -0700)
+8301f9a2e8 refactor(lightslib): point read use cases at LoadCardEntity's new location (Steven Morris, 2026-07-31 09:51:51 -0700)
+468b1b868b feat(lightslib): PR 3/7 - Rapid lighting read use cases (Steven Morris, 2026-07-29 10:44:59 -0700)
