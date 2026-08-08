@@ -1,0 +1,10 @@
+Phoenix Android Nightly – Version 99.4.12-12026080701
+===========================================================
+Generated on:** 2026-08-08 02:04 UTC
+Branch:** develop
+Previous commit SHA:** 8fcfeb409a565c47db1f00633ca6eede2c080f96
+===========================================================
+
+0eb577e56b chore(lightslib,rapidlights): stack cleanup - dead deps, stale KDoc links, unused API (#9384) (Steven Morris, 2026-08-07 06:07:06 -0700)
+27676aed79 Bugfix:CHOME-121622: Resolve Remove "Management Mode Expired" timeout popup (#9396) (nlodhi-crestron, 2026-08-07 17:28:13 +0530)
+51997f9b70 [CHOME-121289] Remote keypad scrolling behavior is inconsistent on TSW compared to Android and iPhone (#9394) (Tanu Priya Mishra, 2026-08-07 12:32:44 +0530)
