@@ -1,0 +1,24 @@
+Phoenix Android Nightly – Version 99.4.12-12026081001
+===========================================================
+Generated on:** 2026-08-11 02:05 UTC
+Branch:** develop
+Previous commit SHA:** 0eb577e56b0f82018e10a1c5e77591c57d4a7fed
+===========================================================
+
+6bc81179ea Feature/chome 121175 shadeslib repository (#9383) (Sravanth AV, 2026-08-10 20:02:33 -0400)
+e11d416f73 CHOME-120836: Restore untranslated DNT remote button labels for hr/sr/uk (Veeranna Iyle, 2026-08-10 20:13:56 +0530)
+3d24e15f4d CHOME-121262: Fix Dutch thermostat "Cool to" set-point translation (Veeranna Iyle, 2026-08-10 20:13:35 +0530)
+5e00a815b8 CHOME-122551: Fix Norwegian (no-rNO) thermostat set-point translation (Veeranna Iyle, 2026-08-10 20:13:13 +0530)
+a0b1e93cc5 CHOME-116787: Fix Simplified Chinese language label and "Shade" translation (#9405) (Veeranna Iyle, 2026-08-10 20:12:26 +0530)
+4c1dfd8573 Feature/chome 121869 rapid rooms groups tab (#9397) (Domuta Darius, 2026-08-10 17:37:49 +0300)
+e63652fd5e Merge pull request #9393 from Crestron/CHOME-121699 (m-arif-crestron, 2026-08-10 08:02:45 -0500)
+fb5899efcc CHOME-116787: Fix Simplified Chinese language label and "Shade" translation (Veeranna Iyle, 2026-08-10 17:42:57 +0530)
+fe9fb15bc0 CHOME-122551: Fix Norwegian (no-rNO) thermostat "Cool to"/"Heat to" set-point translation (Veeranna Iyle, 2026-08-10 17:26:12 +0530)
+306cb940e4 Bugfix:CHOME-121622: Resolve Android display incorrect icons for Open/Close when movement is "BottomToTop" for DIN 8SWU8 (#9401) (nlodhi-crestron, 2026-08-10 16:31:59 +0530)
+b3ed590cc8 CHOME-121262: Fix Dutch thermostat "Cool to" set-point translation (Veeranna Iyle, 2026-08-10 15:36:36 +0530)
+d5f308efdf CHOME-120836: Restore untranslated DNT remote button labels for hr/sr/uk (Veeranna Iyle, 2026-08-10 15:10:44 +0530)
+700c3cb3ea [CHOME-121680] 4.11.1 Android app (Touchpanels) exposes Dev Options with Version Multi tap (#9398) (Tanu Priya Mishra, 2026-08-10 12:45:38 +0530)
+1a5eafb94d Bugfix:CHOME-121622: Move Shift Buttons from D-Pad Sides to Below D-P… (#9392) (nlodhi-crestron, 2026-08-10 10:00:41 +0530)
+0d16e0fd42 Refactored the Mulitple dispay card and resolve PR comments. (m-arif-crestron, 2026-08-07 09:26:58 -0500)
+491854ddb4 CHOME-121699: UI fixes v2 (m-arif-crestron, 2026-08-06 15:44:21 -0500)
+10db6a7195 CHOME-121699: UI fixes for multiple displays. (m-arif-crestron, 2026-08-06 14:22:59 -0500)
