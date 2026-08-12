@@ -1,0 +1,10 @@
+Phoenix Android Nightly – Version 99.4.12-12026081101
+===========================================================
+Generated on:** 2026-08-12 02:05 UTC
+Branch:** develop
+Previous commit SHA:** 6bc81179eae1835ff25f1cdf1b02f089639a5ae8
+===========================================================
+
+0e1ceb1015 CHOME-122275 - Rapid Lights: Address PO Feedback (#9411) (Steven Morris, 2026-08-11 09:44:34 -0700)
+8b57fda464 CHOME-121532: Camera-Stream Error state is not seen and stuck in loading (#9399) (Justin Aloor, 2026-08-11 11:11:54 +0530)
+87ac685d65 CHOME-122152: Add test coverage to Camera tile error/offline behavior (#9395) (Justin Aloor, 2026-08-11 10:35:56 +0530)
