@@ -1,0 +1,12 @@
+Phoenix Android Nightly – Version 99.4.12-12026081201
+===========================================================
+Generated on:** 2026-08-13 02:07 UTC
+Branch:** develop
+Previous commit SHA:** 0e1ceb10156b3c9cf2a6e3a43c0badb9c73126f2
+===========================================================
+
+e89d364924 CHOME-121756: Target Android 16 (API 36) (#9419) (Steven Morris, 2026-08-12 09:31:42 -0700)
+f75321dfcf chome 122524 shadeslib pr and review updates (#9422) (Sravanth AV, 2026-08-12 08:48:53 -0500)
+b5bc5f3b40 CHOME-121265: refactor weatherlib use-cases (StateFlow->Flow, dead-param removal, command contract) (#9412) (sabtain-khan-crestron, 2026-08-12 08:42:43 -0500)
+bad2f9bb62 - Remove deprecated android.enableJetifier flag (#9423) (Sravanth AV, 2026-08-12 08:38:53 -0500)
+47643fd7c1 CHOME-122989 - Fix rapidvideos compile failure: add missing powerOffEndpoints test wiring (#9421) (Steven Morris, 2026-08-12 06:10:40 -0700)
