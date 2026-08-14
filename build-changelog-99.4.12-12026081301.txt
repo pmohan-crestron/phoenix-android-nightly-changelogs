@@ -1,0 +1,8 @@
+Phoenix Android Nightly – Version 99.4.12-12026081301
+===========================================================
+Generated on:** 2026-08-14 02:05 UTC
+Branch:** develop
+Previous commit SHA:** e89d364924b7fba1baba0393efcfb54c826aeeff
+===========================================================
+
+3b9e08d392 CHOME-121967 - Implement the rapid rooms collapsible groups. (#9440) (Domuta Darius, 2026-08-13 16:51:09 +0300)
