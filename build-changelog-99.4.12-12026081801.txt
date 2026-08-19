@@ -1,0 +1,14 @@
+Phoenix Android Nightly – Version 99.4.12-12026081801
+===========================================================
+Generated on:** 2026-08-19 02:03 UTC
+Branch:** develop
+Previous commit SHA:** e420e5ac0a3e095f98ff010a9c406ca568e1b41f
+===========================================================
+
+7e2918ffc1 CHOME-123268: Add Koin DI tests for 12 tier-2 modules (batch 1) (#9453) (Steven Morris, 2026-08-17 19:27:44 -0700)
+3dff633c27 CHOME-123268 Add Koin 4.1.1 DI unit tests (batch 7) (#9460) (Steven Morris, 2026-08-17 19:25:22 -0700)
+d9fe2655d2 CHOME-123268: Add Koin 4.1.1 DI unit tests (batch 4) (#9457) (Steven Morris, 2026-08-17 19:25:13 -0700)
+f84d9c1366 CHOME-123268: Add Koin 4.1.1 DI unit tests (batch 6) (#9459) (Steven Morris, 2026-08-17 19:24:51 -0700)
+de3dbac928 CHOME-123268: Add Koin DI tests for 12 tier-2 modules (batch 5) (#9458) (Steven Morris, 2026-08-17 19:24:38 -0700)
+f175c1eb5c CHOME-123268: Add Koin DI tests for 12 modules (batch 3) (#9456) (Steven Morris, 2026-08-17 19:23:41 -0700)
+1a5bf24047 CHOME-123268: Add Koin DI tests for 12 tier-2 modules (batch 2) (#9455) (Steven Morris, 2026-08-17 19:22:29 -0700)
