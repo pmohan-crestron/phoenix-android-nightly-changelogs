@@ -1,0 +1,8 @@
+Phoenix Android Nightly – Version 99.4.12-12026081901
+===========================================================
+Generated on:** 2026-08-20 02:04 UTC
+Branch:** develop
+Previous commit SHA:** 7e2918ffc192ae3b73704685de0903060f70210d
+===========================================================
+
+2cfb189ef7 CHOME-121177-Adds the command-side UseCase layer for Room Shading Controls (#9447) (Sravanth AV, 2026-08-19 09:18:30 -0500)
