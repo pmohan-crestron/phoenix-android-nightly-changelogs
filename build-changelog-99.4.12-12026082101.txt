@@ -1,0 +1,10 @@
+Phoenix Android Nightly – Version 99.4.12-12026082101
+===========================================================
+Generated on:** 2026-08-22 02:03 UTC
+Branch:** develop
+Previous commit SHA:** 4f1354e333a86fcc41c6bd3b3e298df91a1e14ae
+===========================================================
+
+f2e2ac5c25 CHOME-122040 - Implement the rooms list standard card. (#9486) (Domuta Darius, 2026-08-21 11:33:27 +0300)
+601e96b34a CHOME-123607: Handle long Microphone names in the widget. (#9471) (Justin Aloor, 2026-08-21 11:25:19 +0530)
+864f4225dd CHOME-121898: Camera name is truncated though space is available (#9470) (Justin Aloor, 2026-08-21 11:23:27 +0530)
