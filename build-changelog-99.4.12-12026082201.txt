@@ -1,0 +1,8 @@
+Phoenix Android Nightly – Version 99.4.12-12026082201
+===========================================================
+Generated on:** 2026-08-23 02:02 UTC
+Branch:** develop
+Previous commit SHA:** f2e2ac5c25b0ba3fee1c160f3ef9c09440cec1b3
+===========================================================
+
+b7e78fda61 CHOME-123268: Complete remaining Koin 4.1.1 DI test coverage (long-tail) (#9462) (Steven Morris, 2026-08-22 03:32:48 -0700)
