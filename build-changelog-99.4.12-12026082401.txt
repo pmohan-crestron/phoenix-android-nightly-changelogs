@@ -1,0 +1,10 @@
+Phoenix Android Nightly – Version 99.4.12-12026082401
+===========================================================
+Generated on:** 2026-08-25 02:06 UTC
+Branch:** develop
+Previous commit SHA:** b7e78fda615a62c23852d436ecd7a5a51d05bafa
+===========================================================
+
+240b734801 CHOME-121266: Compose screenshot-test harness for weather visual ACs (#9466) (sabtain-khan-crestron, 2026-08-24 11:26:01 -0500)
+7ab74c9793 CHOME-123759: Intermittent reboot after reconnecting to Wi-Fi (#9491) (Justin Aloor, 2026-08-24 20:41:38 +0530)
+936a1ff315 chome-121179-05-rapidshades compose UI components (#9467) (Sravanth AV, 2026-08-24 09:29:25 -0400)
