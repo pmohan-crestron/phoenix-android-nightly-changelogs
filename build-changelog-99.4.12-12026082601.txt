@@ -1,0 +1,11 @@
+Phoenix Android Nightly – Version 99.4.12-12026082601
+===========================================================
+Generated on:** 2026-08-27 02:06 UTC
+Branch:** develop
+Previous commit SHA:** 168b5895595072c7d64626a3d18a2d2d07f18dd6
+===========================================================
+
+3de52a0c71 Feature/chome 121180 06 rapidshades view model screen composition (#9479) (Sravanth AV, 2026-08-26 12:36:00 -0500)
+02e8c993ad CHOME-122090 - Rapid rooms compact view. (#9501) (Domuta Darius, 2026-08-26 14:34:07 +0300)
+ea5a0db1d0 CHOME-122267 Update microphone feature as per new puml (#9463) (pkamat-crestron, 2026-08-26 14:58:00 +0530)
+f59511d0bc CHOME-123032: [Unit Test] LightingPresenterTest: 6 tests fail (#9498) (Justin Aloor, 2026-08-26 10:37:10 +0530)
