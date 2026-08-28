@@ -1,0 +1,9 @@
+Phoenix Android Nightly – Version 99.4.12-12026082701
+===========================================================
+Generated on:** 2026-08-28 02:05 UTC
+Branch:** develop
+Previous commit SHA:** 3de52a0c712a3ab074d65c6e4bc45bf17f7c5bf5
+===========================================================
+
+f850595582 feat(weather): model weather as first-class panel-only subsystem tile [CHOME-120953] (#9504) (sabtain-khan-crestron, 2026-08-27 17:16:00 -0500)
+f271cbc381 CHOME-123029: [Unit Test] RpcCameraListCachingPublisherImplTest fails (#9482) (Justin Aloor, 2026-08-27 11:31:43 +0530)
