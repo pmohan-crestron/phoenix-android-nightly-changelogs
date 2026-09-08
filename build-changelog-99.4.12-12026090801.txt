@@ -1,0 +1,14 @@
+Phoenix Android Nightly – Version 99.4.12-12026090801
+===========================================================
+Generated on:** 2026-09-08 05:35 UTC
+Branch:** develop
+Previous commit SHA:** 7db0b5c4f77500673a9b07a9ec535deb2e140d0e
+===========================================================
+
+53d77fbf1c Feature/chome 122118 do not disturb (#9547) (Domuta Darius, 2026-09-07 17:33:44 +0300)
+8de918674a CHOME-126251: Camera feed streams even after wrong password is set (#9546) (Justin Aloor, 2026-09-07 18:28:28 +0530)
+6f3e5edee6 Hide bottom bar volume control when room has no volume capability (#9548) (v-amorariu, 2026-09-07 13:14:59 +0300)
+157d1e4ad4 [CHOME-125500] Remotes D-pad controls remain stuck on loading spinner after exiting from Multi-Window View to full Screen (#9541) (Tanu Priya Mishra, 2026-09-07 14:56:36 +0530)
+1b64e4ca2f CHOME-122114 - Rapid rooms favorites screen. (#9537) (Domuta Darius, 2026-09-03 16:21:53 +0300)
+0982c08a42 fix the crash for mercurymini (#9540) (Tanu Priya Mishra, 2026-09-03 17:02:15 +0530)
+9b72d0998d RapidShades : shade card live ramp-progress animation + latched hold-ramp and tap gate (#9532) (Sravanth AV, 2026-09-02 22:02:46 -0500)
