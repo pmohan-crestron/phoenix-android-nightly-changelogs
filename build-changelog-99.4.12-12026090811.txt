@@ -1,0 +1,8 @@
+Phoenix Android Nightly – Version 99.4.12-12026090811
+===========================================================
+Generated on:** 2026-09-09 02:03 UTC
+Branch:** develop
+Previous commit SHA:** 363e48f8357dc34e68e10714e6349c194c2426cb
+===========================================================
+
+3e702cedb3 CHOME-126278: Add QueryRoomMicrophoneMuteState to Koin verify extraTypes (#9551) (Steven Morris, 2026-09-08 08:13:09 -0700)
