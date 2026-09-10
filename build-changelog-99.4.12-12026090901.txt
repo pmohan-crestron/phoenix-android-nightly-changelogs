@@ -1,0 +1,10 @@
+Phoenix Android Nightly – Version 99.4.12-12026090901
+===========================================================
+Generated on:** 2026-09-10 02:03 UTC
+Branch:** develop
+Previous commit SHA:** 3e702cedb3dfa781e2d6e0fe3164b04230c39eb5
+===========================================================
+
+e03f4b6481 [AI: solution_architect | Gate 3 | CHOME-125685] refactor: relocate weather list-membership gating into panel-scoped hybrid use cases (#9552) (sabtain-khan-crestron, 2026-09-09 12:12:23 -0500)
+34c1198263 [CHOME-125686] UI alignment is not properly displayed in some screen (#9554) (Tanu Priya Mishra, 2026-09-09 14:57:18 +0530)
+06c5ea3a51 [CHOME-121723] Exclude developeroptions module strings from translation pipeline (#9553) (Tanu Priya Mishra, 2026-09-09 10:39:13 +0530)
