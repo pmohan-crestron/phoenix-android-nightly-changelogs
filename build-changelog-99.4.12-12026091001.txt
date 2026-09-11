@@ -1,0 +1,13 @@
+Phoenix Android Nightly – Version 99.4.12-12026091001
+===========================================================
+Generated on:** 2026-09-11 02:03 UTC
+Branch:** develop
+Previous commit SHA:** e03f4b6481ed4869963c90a966d52a3a18d045ad
+===========================================================
+
+45c8b7ddff Merge pull request #9555 from Crestron/kotlin_2.2 (Scott Thompson, 2026-09-10 08:04:17 -0500)
+9b22bce99f Add QA automation identifiers on the new rooms list screen (#9559) (v-amorariu, 2026-09-10 14:23:50 +0300)
+31051be118 CHOME-125337: DGE full screen view does not open when routing a source from any Touch Panel (#9560) (Justin Aloor, 2026-09-10 11:14:19 +0530)
+8731ce53a9 Revert "CHOME-126251: Camera feed streams even after wrong password is set (#9546)" (#9558) (pkamat-crestron, 2026-09-10 10:37:02 +0530)
+607e68aee4 Changed the core uppercase function to behave in the face of different locales and changed the importation of the event library includes to match best-practices that were identified by AI (Scott Thompson, 2026-09-09 10:38:52 -0500)
+0f96d26dc2 Changes for Kotlin 2.2 support (Scott Thompson, 2026-09-08 14:43:49 -0500)
