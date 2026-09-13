@@ -1,0 +1,10 @@
+Phoenix Android Nightly – Version 99.4.12-12026091201
+===========================================================
+Generated on:** 2026-09-13 02:03 UTC
+Branch:** develop
+Previous commit SHA:** 45c8b7ddff464427891325a802cfc396f94c19c4
+===========================================================
+
+66be01fafb Missing flag from nightly and beta (#9567) (Tanu Priya Mishra, 2026-09-11 22:21:51 +0530)
+0e0f904f45 [CHOME-125979] "Connecting to Home" banner not displayed on android Video Page  (#9545) (Tanu Priya Mishra, 2026-09-11 14:12:25 +0530)
+273b85ab8b Fix/spaces rooms list adjustments (#9562) (v-amorariu, 2026-09-11 11:14:32 +0300)
