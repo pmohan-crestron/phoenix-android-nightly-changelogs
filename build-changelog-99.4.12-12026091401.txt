@@ -1,0 +1,9 @@
+Phoenix Android Nightly – Version 99.4.12-12026091401
+===========================================================
+Generated on:** 2026-09-15 02:04 UTC
+Branch:** develop
+Previous commit SHA:** 66be01fafb38b91ced35cc54d292800101d48311
+===========================================================
+
+0fbbf5cfe8 Label the sole All-page section "Rooms" instead of "Other Rooms" (#9563) (v-amorariu, 2026-09-14 08:54:52 +0300)
+916c9cd746 Fix rapid room no favorite image and size (#9564) (v-amorariu, 2026-09-14 08:54:35 +0300)
