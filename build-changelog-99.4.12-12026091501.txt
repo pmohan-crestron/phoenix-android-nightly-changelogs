@@ -1,0 +1,33 @@
+Phoenix Android Nightly – Version 99.4.12-12026091501
+===========================================================
+Generated on:** 2026-09-16 02:04 UTC
+Branch:** develop
+Previous commit SHA:** 0fbbf5cfe829a626b2b6700c4c6bfc537d75c9fc
+===========================================================
+
+a1b0471823 Merge 4.12 9.14.26 (#9571) (Jordan Silver, 2026-09-15 09:56:48 -0400)
+496633c57b CHOME-121527: "Cameras" header is missing in Android app (#9557) (Justin Aloor, 2026-09-15 12:26:32 +0530)
+1c8031cc48 Merge branch 'develop' of https://github.com/Crestron/mobile-android-phoenix into merge-4.12-9.14.26 (jsilver, 2026-09-14 14:46:46 -0400)
+a62e817956 Merge branch 'release/4.12' of https://github.com/Crestron/mobile-android-phoenix into release/4.12 (jsilver, 2026-09-14 14:44:20 -0400)
+0cc20112bd Chome 126772 advanced settings for music broken (#9568) (Jordan Silver, 2026-09-11 15:59:07 -0400)
+d8b46aab54 Merge branch 'release/4.12' of https://github.com/Crestron/mobile-android-phoenix into release/4.12 (jsilver, 2026-09-09 13:56:19 -0400)
+f63e609c3b CHOME-126250: Fix Sip Registration Retry Logic (#9549) (Jordan Silver, 2026-09-04 16:10:18 -0400)
+566cb74a82 Add necessary files for TST fix (#9550) (Jordan Silver, 2026-09-04 12:54:14 -0400)
+a69366cffb Merge branch 'release/4.12' of https://github.com/Crestron/mobile-android-phoenix into release/4.12 (jsilver, 2026-09-04 11:02:28 -0400)
+0e4ac60378 Fix Undock button on single experience mode (#9543) (Jordan Silver, 2026-09-04 08:50:31 -0400)
+edef1a729c Merge branch 'release/4.12' of https://github.com/Crestron/mobile-android-phoenix into release/4.12 (jsilver, 2026-09-03 12:05:44 -0400)
+676c2fba32 Fix bottom bar visibility on TST after app update while panel is in standby mode - recovery on reconnect (#9539) (v-amorariu, 2026-09-03 10:55:46 +0300)
+f6dfede3cb Merge branch 'release/4.12', commit 'refs/pull/9519/head' of https://github.com/Crestron/mobile-android-phoenix into release/4.12 (jsilver, 2026-09-02 08:49:17 -0400)
+af7f1fb34f CHOME-126015: Fix windowing source routing logic to correctly account for if the source is routed to all supported windows (#9530) (Jordan Silver, 2026-09-01 12:02:36 -0400)
+599d36da54 CHOME-126022: Fixed icon color when display if off. (#9529) (m-arif-crestron, 2026-09-01 10:14:31 -0500)
+c1baa394f8 Merge branch 'release/4.12' of https://github.com/Crestron/mobile-android-phoenix into release/4.12 (jsilver, 2026-08-28 19:24:07 -0400)
+ade57981d0 CHOME-125826: Remove filter logic for video sources that are also active audio sources from windowing logic so the UI doesn't fallback to display current source (#9520) (Jordan Silver, 2026-08-28 17:15:26 -0400)
+b4a8499dc0 Merge branch 'release/4.12' of https://github.com/Crestron/mobile-android-phoenix into release/4.12 (jsilver, 2026-08-28 12:56:43 -0400)
+b2e8cb8a62 CHOME-125703: Updated header spacing for tablets. (#9512) (m-arif-crestron, 2026-08-28 07:58:28 -0500)
+8ef17fc9d1 CHOME-123759: Intermittent reboot after reconnecting to Wi-Fi (#9491) (#9514) (Justin Aloor, 2026-08-28 17:05:19 +0530)
+d34642e394 Merge branch 'release/4.12' of https://github.com/Crestron/mobile-android-phoenix into release/4.12 (jsilver, 2026-08-27 15:13:49 -0400)
+7ff55c0a4a Merge branch 'release/4.12' of https://github.com/Crestron/mobile-android-phoenix into release/4.12 (jsilver, 2026-08-27 10:02:49 -0400)
+111cbb2da3 Merge branch 'release/4.12' of https://github.com/Crestron/mobile-android-phoenix into release/4.12 (jsilver, 2026-08-25 13:25:44 -0400)
+8dad97d061 Merge branch 'release/4.12' of https://github.com/Crestron/mobile-android-phoenix into release/4.12 (jsilver, 2026-08-24 09:59:26 -0400)
+11575d0f64 Merge branch 'release/4.12' of https://github.com/Crestron/mobile-android-phoenix into release/4.12 (jsilver, 2026-08-19 12:56:54 -0400)
+d9a196d338 Merge branch 'release/4.12' of https://github.com/Crestron/mobile-android-phoenix into release/4.12 (jsilver, 2026-08-18 12:44:14 -0400)
