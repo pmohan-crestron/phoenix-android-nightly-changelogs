@@ -1,0 +1,18 @@
+Phoenix Android Nightly – Version 99.4.12-12026091801
+===========================================================
+Generated on:** 2026-09-19 02:06 UTC
+Branch:** develop
+Previous commit SHA:** a1b0471823f3bc59aedede45719e0ff9b03bb5e9
+===========================================================
+
+065cc1c21b CHOME-126174 - Hide Scenes section when empty, remove New Scene entry point (#9577) (Sravanth AV, 2026-09-18 08:50:30 -0500)
+afe61e8669 Remove horizontal scrolling for the RapidRoomsScreen. (#9583) (Domuta Darius, 2026-09-18 15:23:09 +0300)
+99978951da Add Extend Meeting QA Automation Identifiers (#9579) (v-amorariu, 2026-09-18 09:22:19 +0300)
+32393240b8 CHOME-127186: Reinstate streaming preview height in landscape modes (#9580) (Justin Aloor, 2026-09-18 11:40:07 +0530)
+2d1e7919c2 Feature/chome 126174 shades review feedback (#9556) (Sravanth AV, 2026-09-17 15:15:00 -0500)
+3912dd6eb4 CHOME-126596: Camera Stream and PTZ controls are not centered vertically (#9565) (Justin Aloor, 2026-09-17 14:46:04 +0530)
+209f8e0eb4 Add extend meeting dialog (#9576) (v-amorariu, 2026-09-17 10:43:58 +0300)
+7485b089cd CHOME-126583: Fix reversed shade raise/lower direction and CHOME-126643 drape icon swap (#9575) (Jordan Silver, 2026-09-16 09:58:01 -0400)
+dfd6109321 CHOME-121680: Dev Options shouldn't be exposed in Release app (#9566) (Justin Aloor, 2026-09-16 15:06:56 +0530)
+45790aae21 Feature/rapid rooms screen spacing (#9573) (Domuta Darius, 2026-09-16 11:24:15 +0300)
+1450dc43e5 Add extend meeting action to CalendarSection (#9572) (v-amorariu, 2026-09-16 10:11:04 +0300)
