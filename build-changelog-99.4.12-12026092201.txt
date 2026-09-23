@@ -1,0 +1,10 @@
+Phoenix Android Nightly – Version 99.4.12-12026092201
+===========================================================
+Generated on:** 2026-09-23 02:04 UTC
+Branch:** develop
+Previous commit SHA:** 065cc1c21b5a76b9694463a8525062a1d2a38573
+===========================================================
+
+1cc24db033 CHOME-126061 Fix truncated Page/Call tab pill on Intercom TSW paging screen (#9582) (Jordan Silver, 2026-09-22 12:58:30 -0400)
+7bcb1271ac CHOME-126812: Fix camera stuck on Loading by using onSizeChanged for stabilization (#9584) (pkamat-crestron, 2026-09-21 17:05:28 +0530)
+d49d96c872 Implement portrait SingleDisplayScreen matching Figma spec (#9581) (Tanu Priya Mishra, 2026-09-21 10:27:58 +0530)
