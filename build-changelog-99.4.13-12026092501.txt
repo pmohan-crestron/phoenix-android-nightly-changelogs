@@ -1,0 +1,9 @@
+Phoenix Android Nightly – Version 99.4.13-12026092501
+===========================================================
+Generated on:** 2026-09-25 18:47 UTC
+Branch:** develop
+Previous commit SHA:** dffa9d2fbffb49e48c642299e1e6e85accf454bb
+===========================================================
+
+1ac1fc3772 [CHOME-127268] Use MAC addresses for PNS processors (#9595) (Jordan Silver, 2026-09-25 14:37:31 -0400)
+0c5c8efcce CHOME-121649: first-boot weather default location (outage misreport + Tap-to-Setup navigation) (#9574) (sabtain-khan-crestron, 2026-09-25 10:27:02 -0500)
