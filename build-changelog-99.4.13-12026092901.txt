@@ -1,0 +1,15 @@
+Phoenix Android Nightly – Version 99.4.13-12026092901
+===========================================================
+Generated on:** 2026-09-30 02:04 UTC
+Branch:** develop
+Previous commit SHA:** 3d7aab6bfdfe1f86600288d583954aa2872b4413
+===========================================================
+
+585b173cde CHOME-127305: Stop gating NVX window routing on stale legacy isOffline flag (#9605) (Jordan Silver, 2026-09-29 13:03:13 -0400)
+4faa76d7ca Remove display settings (#9606) (Tanu Priya Mishra, 2026-09-29 18:50:06 +0530)
+2d10ab2da4 Chome 127248 rapid rooms reordering (#9594) (Domuta Darius, 2026-09-29 10:15:34 +0300)
+8787989308 Fix the rapid home screen's branding image spacing. (#9604) (Domuta Darius, 2026-09-29 10:15:13 +0300)
+c651f563df CHOME-127355 - Update the volume slider drag behaviour. (#9599) (Domuta Darius, 2026-09-29 10:10:36 +0300)
+ad359b0403 Dismiss any popups and dialogs when switching tabs on the rapid feature. (#9598) (Domuta Darius, 2026-09-29 10:09:46 +0300)
+e571d51a30 [CHOME-127341] Remove RemoteController legacy code (#9602) (Tanu Priya Mishra, 2026-09-29 11:35:27 +0530)
+81d389f9e4 [CHOME-127339] remove multiple display folder legacy code for videos or TSW, TST, Mobile (Tanu Priya Mishra, 2026-09-28 16:08:48 +0530)
