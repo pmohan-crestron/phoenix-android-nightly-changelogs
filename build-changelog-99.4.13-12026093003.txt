@@ -1,0 +1,9 @@
+Phoenix Android Nightly – Version 99.4.13-12026093003
+===========================================================
+Generated on:** 2026-10-01 02:04 UTC
+Branch:** develop
+Previous commit SHA:** f72189bc63a647d0bc2b73418b21942a7b61f5ed
+===========================================================
+
+8c89860fb6 CHOME-127584: Seeing spinner as well as error icon when camera has error (#9603) (Justin Aloor, 2026-09-30 16:52:33 +0530)
+8d312d5a6f Feature/add change systems on tsw and tst apps (#9587) (v-amorariu, 2026-09-30 13:02:32 +0300)
