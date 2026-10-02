@@ -1,0 +1,14 @@
+Phoenix Android Nightly – Version 99.4.13-12026100101
+===========================================================
+Generated on:** 2026-10-02 02:03 UTC
+Branch:** develop
+Previous commit SHA:** 8c89860fb65c665bb2f33571d3944019962e107c
+===========================================================
+
+89a1236186 Master (#9613) (Jordan Silver, 2026-10-01 11:03:38 -0400)
+0c49bf360e CHOME-127286 - Update the rapid rooms persistence and sorting. (#9612) (Domuta Darius, 2026-10-01 14:55:02 +0300)
+4b7589e038 Portrait mode images (#9614) (Jordan Silver, 2026-10-01 07:27:23 -0400)
+c3c496d535 CHOME-127582: Displays "Cameras" header on Single Camera page (#9608) (Justin Aloor, 2026-10-01 15:32:56 +0530)
+ad28467cfb [CHOME-127340] Remove TVGuide UI feature folder (#9610) (Tanu Priya Mishra, 2026-10-01 10:33:53 +0530)
+60574a85bc Merge pull request #9593 from Crestron/release/4.12 (Jordan Silver, 2026-09-24 10:12:39 -0400)
+878a6da10d Hotfix/post 4.11 (#9353) (Jordan Silver, 2026-08-04 11:42:20 -0400)
