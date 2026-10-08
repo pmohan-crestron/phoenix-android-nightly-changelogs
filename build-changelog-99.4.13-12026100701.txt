@@ -1,0 +1,12 @@
+Phoenix Android Nightly – Version 99.4.13-12026100701
+===========================================================
+Generated on:** 2026-10-08 02:04 UTC
+Branch:** develop
+Previous commit SHA:** 930364f1e2dd2437efc657d415ac05d187aa5c0d
+===========================================================
+
+649b00e3e4 -Retrieve ViewModel via koinViewModel in Shades/Lights composables (#9620) (Sravanth AV, 2026-10-07 12:44:03 -0500)
+31bee9380a chome 125191 rapid feature toolbar (#9636) (Sravanth AV, 2026-10-07 10:03:02 -0500)
+1f10f2bb9d Add custom Crestron previews that match most supported device sizes and orientations. (#9639) (Domuta Darius, 2026-10-07 16:16:48 +0300)
+2411788cdf Update the branding image layout not to be overlapped by the title or subtitle. (#9635) (Domuta Darius, 2026-10-07 09:23:31 +0300)
+38748f7169 Fix/rapid home lock status icons (#9634) (v-amorariu, 2026-10-07 09:08:54 +0300)
