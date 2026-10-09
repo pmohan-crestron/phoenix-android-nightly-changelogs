@@ -1,0 +1,9 @@
+Phoenix Android Nightly – Version 99.4.13-12026100801
+===========================================================
+Generated on:** 2026-10-09 02:04 UTC
+Branch:** develop
+Previous commit SHA:** 649b00e3e42f81051cb43708168cb6797d8ca6f0
+===========================================================
+
+524825f218 Fix Rapid Home Climate Low Battery Status + some offline (#9638) (v-amorariu, 2026-10-08 11:44:30 +0300)
+4d48331931 Fix rapid pool and spa tile offline tint icon (#9640) (v-amorariu, 2026-10-08 11:42:34 +0300)
