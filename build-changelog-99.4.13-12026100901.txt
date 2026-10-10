@@ -1,0 +1,13 @@
+Phoenix Android Nightly – Version 99.4.13-12026100901
+===========================================================
+Generated on:** 2026-10-10 02:05 UTC
+Branch:** develop
+Previous commit SHA:** 524825f2188b1b5b3c137f73619543e21d416db4
+===========================================================
+
+8795126b49 Align shades masters rail states with Figma and extract shade state components (#9645) (Sravanth AV, 2026-10-09 16:13:37 -0500)
+0f255fc97f CHOME-128637: Fix Audio Focus guide text to say bottom right (#9637) (Jordan Silver, 2026-10-09 14:33:18 -0400)
+9ef975e09a added feature flag   "FEATURE_FLAG_RAPID_MULTIPLE_DISPLAYS_V2": (#9642) (Tanu Priya Mishra, 2026-10-09 17:13:00 +0530)
+71405a7e6f Revert "[CHOME-127340] Remove TVGuide UI feature folder (#9610)" (#9643) (Tanu Priya Mishra, 2026-10-09 17:12:40 +0530)
+005121d365 Mark pool/spa tiles as running when any pool part is on (#9641) (v-amorariu, 2026-10-09 08:54:58 +0300)
+2459f6993d Simplify RoomVideoTile state and tint icon by status (#9644) (v-amorariu, 2026-10-09 08:53:26 +0300)
