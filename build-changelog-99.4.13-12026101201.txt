@@ -1,0 +1,9 @@
+Phoenix Android Nightly – Version 99.4.13-12026101201
+===========================================================
+Generated on:** 2026-10-13 02:04 UTC
+Branch:** develop
+Previous commit SHA:** 8795126b49cefd00bf733b599a3cc9e1fca5bcb0
+===========================================================
+
+da820cbbfd CHOME-128810 - Go back to the "My Systems" page if the app is closed … (#9649) (Domuta Darius, 2026-10-12 15:57:06 +0300)
+2d3fafa1dc CHOME-128923 - Fix the rooms navigation when there is a single visible room in the system. (#9647) (Domuta Darius, 2026-10-12 13:52:46 +0300)
