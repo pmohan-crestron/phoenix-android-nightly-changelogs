@@ -1,0 +1,11 @@
+Phoenix Android Nightly – Version 99.4.13-12026101301
+===========================================================
+Generated on:** 2026-10-14 02:03 UTC
+Branch:** develop
+Previous commit SHA:** da820cbbfdd851e564e5b10b2d02a58e280289e5
+===========================================================
+
+b17d85cad5 Resync rapid shades tile state on initialize. (#9646) (Sravanth AV, 2026-10-13 12:21:46 -0500)
+967e1a951f chore: gitignore CrestronAutoSDLC per-developer framework artifacts (#9570) (sabtain-khan-crestron, 2026-10-13 09:41:22 -0500)
+dd7c1f897d [CHOME-128902] Single Display UI to Align with New Video Figma Design on TSW Panels (#9652) (Tanu Priya Mishra, 2026-10-13 15:51:14 +0530)
+e43cdae5e7 CHOME-129234 - Make date format settings available for the Rapid Home mode. (#9651) (Domuta Darius, 2026-10-13 11:29:41 +0300)
