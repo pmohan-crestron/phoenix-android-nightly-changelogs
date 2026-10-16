@@ -1,0 +1,19 @@
+Phoenix Android Nightly – Version 99.4.13-12026101501
+===========================================================
+Generated on:** 2026-10-16 02:03 UTC
+Branch:** develop
+Previous commit SHA:** 2c71817ad2c4052c11afa960e9121930320dc572
+===========================================================
+
+b8775643de CHOME-127119: Added Door Station feature with UI Screens, components and ViewModel (#9664) (m-arif-crestron, 2026-10-15 11:09:31 -0500)
+613e4e8a88 Merge pull request #9631 from Crestron/bug/CHOME-128139-reselect-routed-source (Jordan Silver, 2026-10-15 11:01:28 -0400)
+83e5c4fb3e CHOME-117675: Add the AirMedia domain models and UseCases (#9524) (Steven Morris, 2026-10-15 06:12:52 -0700)
+2b65073aa0 CHOME-126791 : Fix for Panasonic camera not streaming, comm lib[videostreaminglib] updated. (#9597) (pkamat-crestron, 2026-10-15 18:02:00 +0530)
+13e64c5110 Translations/CHOME-129411: 4.13 Release 2c71817ad2 (#9665) (Veeranna Iyle, 2026-10-15 17:08:29 +0530)
+a89f4c81ad Align room camera tile icon with home screen (#9658) (v-amorariu, 2026-10-15 11:50:05 +0300)
+2db3fcbd08 CHOME-129235 - Fix the date updates on rapid home touchpanels. (#9661) (Domuta Darius, 2026-10-15 09:42:28 +0300)
+0d4588698f CHOME-129099 Take microphone isReady from the owning source state (#9648) (pkamat-crestron, 2026-10-15 11:44:32 +0530)
+1cecdb7ac8 Resolve PR conflict (jsilver, 2026-10-06 12:33:24 -0400)
+b7056a22b7 Merge branch 'develop' of https://github.com/Crestron/mobile-android-phoenix into bug/CHOME-128139-reselect-routed-source (jsilver, 2026-10-06 12:05:59 -0400)
+da11d9f1db CHOME-128139: Allow re-selecting an already-routed source to retrigger routing (jsilver, 2026-10-05 14:42:33 -0400)
+f6c901fa46 Merge branch 'develop' of https://github.com/Crestron/mobile-android-phoenix into develop (jsilver, 2026-10-05 14:16:58 -0400)
