@@ -1,8 +1,19 @@
 Phoenix Android Nightly – Version 99.4.13-12026101601
 ===========================================================
-Generated on:** 2026-10-16 08:58 UTC
+Generated on:** 2026-10-17 02:54 UTC
 Branch:** develop
 Previous commit SHA:** b8775643de9f50f4c55d014b4b377b298ce5036b
 ===========================================================
 
-No new commits found between b8775643de9f50f4c55d014b4b377b298ce5036b and HEAD.
+bef8b17d03 Merge pull request #9663 from Crestron/feature/CHOME-120342-notification-settings-design (Jordan Silver, 2026-10-16 18:06:14 -0400)
+17f35ac7b2 CHOME-117675: Map Media v19 canvas reads in mediasubsystemlib (#9534) (Steven Morris, 2026-10-16 08:14:55 -0700)
+202036b866 CHOME-117675: Add Media v19 rooms and canvases RPC (#9533) (Steven Morris, 2026-10-16 08:14:54 -0700)
+5fbf3ebacd CHOME-117675: Add Media RPC v19 canvas DTOs (#9531) (Steven Morris, 2026-10-16 06:11:43 -0700)
+f2468a2919 CHOME-117675: Wire AirMedia UI to airmedialib UseCases (#9528) (Steven Morris, 2026-10-16 06:11:42 -0700)
+9f9b17dddf feature:CHOME-129261: Video Remote V2: Build V2 favourites tab (grid … (#9671) (nlodhi-crestron, 2026-10-16 18:26:36 +0530)
+b90dcb3e56 Retry GetHouseInformation with backoff in PCSM (#9657) (v-amorariu, 2026-10-16 15:23:40 +0300)
+0aae42126d Show arming status on Home security system tile (#9659) (v-amorariu, 2026-10-16 14:42:14 +0300)
+2b0f618739 Add labeled navigation bar for tablet landscape remote (#9667) (Tanu Priya Mishra, 2026-10-16 15:42:25 +0530)
+c7751da626 feature:CHOME-129268: [Android] Video Remote V2: Build V2 Apple TV / … (#9666) (nlodhi-crestron, 2026-10-16 13:02:51 +0530)
+371a0a57c9 [CHOME-120342] Notification settings page improvements (jsilver, 2026-10-14 13:13:13 -0400)
+6713cf7891 Merge branch 'develop' of https://github.com/Crestron/mobile-android-phoenix into develop (jsilver, 2026-10-13 11:50:22 -0400)
