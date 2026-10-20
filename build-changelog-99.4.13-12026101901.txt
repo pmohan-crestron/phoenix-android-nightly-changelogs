@@ -1,8 +1,11 @@
 Phoenix Android Nightly – Version 99.4.13-12026101901
 ===========================================================
-Generated on:** 2026-10-20 02:04 UTC
+Generated on:** 2026-10-20 02:56 UTC
 Branch:** develop
 Previous commit SHA:** bef8b17d03d46eb7a40d59e46f29dc2d5ea1e4c4
 ===========================================================
 
-No new commits found between bef8b17d03d46eb7a40d59e46f29dc2d5ea1e4c4 and HEAD.
+553eff23a9  Add WHOLE_HOUSE_LIGHTs routing gate and feature flag UI entry  (#9650) (Sravanth AV, 2026-10-19 08:45:16 -0500)
+4c682945e8 CHOME-128808 - Update the rapid home and room default image. (#9669) (Domuta Darius, 2026-10-19 15:27:54 +0300)
+0312862b59 [CHOME-129264] Match Remote Settings tab layout and typography to Figma on landscape tablets (#9674) (Tanu Priya Mishra, 2026-10-19 14:01:56 +0530)
+3bb23fd47c Sync Rapid extension tile with legacy behaviour (#9672) (v-amorariu, 2026-10-19 09:37:33 +0300)
