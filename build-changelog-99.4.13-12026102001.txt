@@ -1,11 +1,8 @@
 Phoenix Android Nightly – Version 99.4.13-12026102001
 ===========================================================
-Generated on:** 2026-10-21 02:04 UTC
+Generated on:** 2026-10-21 02:56 UTC
 Branch:** develop
-Previous commit SHA:** 553eff23a9454dc213b5f450cf64e1cafc5c6dd4
+Previous commit SHA:** f7a53426c3fe64354255c919d70f21ee2987b18e
 ===========================================================
 
-f7a53426c3 CHOME-117675: Assign peripherals from the session cards (#9544) (Steven Morris, 2026-10-20 06:12:30 -0700)
-bd49195b1c CHOME-117675: live AirMedia repository join and v19 commands (#9538) (Steven Morris, 2026-10-20 06:12:29 -0700)
-60cc9ea56c Show Intercom tile only in the default room (#9677) (v-amorariu, 2026-10-20 10:58:59 +0300)
-c190711d7c Fix customdevice module gradle build config (#9679) (v-amorariu, 2026-10-20 10:27:52 +0300)
+No new commits found between f7a53426c3fe64354255c919d70f21ee2987b18e and HEAD.
