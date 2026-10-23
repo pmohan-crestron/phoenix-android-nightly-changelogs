@@ -1,0 +1,14 @@
+Phoenix Android Nightly – Version 99.4.13-12026102201
+===========================================================
+Generated on:** 2026-10-23 02:06 UTC
+Branch:** develop
+Previous commit SHA:** f7a53426c3fe64354255c919d70f21ee2987b18e
+===========================================================
+
+ef762dac8b CHOME-125362 Fix duplicated German garage door closed label (#9697) (Veeranna Iyle, 2026-10-22 22:46:00 +0530)
+b9b4dd97d5 Enable FEATURE_FLAG_RAPID_MULTIPLE_DISPLAYS_V2 in Beta feature flags (#9698) (Veeranna Iyle, 2026-10-22 21:27:32 +0530)
+55a0d6b109 Feature/chome 128589 whole house lights s1 shell layout (#9660) (Sravanth AV, 2026-10-22 10:26:19 -0500)
+1f9f6962a4 minor remote fixes, FEATURE_FLAG_RAPID_MULTIPLE_DISPLAYS_V2 flag in nightly is on (#9695) (Tanu Priya Mishra, 2026-10-22 18:34:43 +0530)
+cd5f0273f3 CHOME-129272: Show display name under source name in remote header (#9686) (Tanu Priya Mishra, 2026-10-22 13:59:07 +0530)
+dbde3368de CHOME-129277: Match wide remote keypad, subtitle and shadow to Figma under RapidMultipleDisplaysV2 (#9687) (Tanu Priya Mishra, 2026-10-22 10:51:56 +0530)
+570709fd1d CHOME-126791 : Updated to use latest comm lib version (#9675) (pkamat-crestron, 2026-10-22 10:50:43 +0530)
