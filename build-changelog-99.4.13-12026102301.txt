@@ -1,8 +1,13 @@
 Phoenix Android Nightly – Version 99.4.13-12026102301
 ===========================================================
-Generated on:** 2026-10-24 02:04 UTC
+Generated on:** 2026-10-24 02:55 UTC
 Branch:** develop
 Previous commit SHA:** ef762dac8b69f16937aa8e415fc37351751eea12
 ===========================================================
 
-No new commits found between ef762dac8b69f16937aa8e415fc37351751eea12 and HEAD.
+ded877f46a CHOME-125035: Keep "Smart Graphics" in Latin script for ja/ko (DNT) (#9699) (Veeranna Iyle, 2026-10-23 15:13:05 +0530)
+6d597b5a09 CHOME-129324 - Introduce date format settings on TST. (#9673) (Domuta Darius, 2026-10-23 10:28:57 +0300)
+566a2a2575 Update the rapid home and commercial mode bottom bar size. (#9685) (Domuta Darius, 2026-10-23 10:08:53 +0300)
+ce66ae09a6 CHOME-128977 - Update the maximum number of quick actions on rapid. (#9670) (Domuta Darius, 2026-10-23 10:08:35 +0300)
+cf07bc57fc CHOME-129560 - Fix the rapid clock language updates. (#9678) (Domuta Darius, 2026-10-23 10:01:51 +0300)
+8cf88145bf CHOME-129562 - Fix the home subtitle reaction to language changes. (#9682) (Domuta Darius, 2026-10-23 10:01:23 +0300)
