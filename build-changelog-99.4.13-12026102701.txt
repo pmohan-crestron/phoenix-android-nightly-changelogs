@@ -1,0 +1,19 @@
+Phoenix Android Nightly – Version 99.4.13-12026102701
+===========================================================
+Generated on:** 2026-10-28 02:04 UTC
+Branch:** develop
+Previous commit SHA:** ded877f46af360e3dcdac167e24e94cffe641746
+===========================================================
+
+94e912debe Feature/ [S2/S8] Chome 128590 whole house lights scenes row (#9676) (Sravanth AV, 2026-10-27 10:06:36 -0500)
+787adb39e2 Merge pull request #9706 from CrestronEng/bugfix/chome-130577 (Jordan Silver, 2026-10-27 10:45:13 -0400)
+5a43f5a84a CHOME-129427 - Fix the title section max number of lines. (#9705) (Domuta Darius, 2026-10-27 12:59:03 +0200)
+65e66586a9 CHOME-129743 - Rooms sticky headers implementation. (#9701) (Domuta Darius, 2026-10-27 12:58:40 +0200)
+0474db7846 CHOME-130496: Fix doubled garage door closed text in 27 locales (#9713) (Veeranna Iyle, 2026-10-27 15:53:39 +0530)
+1e3f6e5a8f CHOME-130559: Fix he/iw/ja intercom answer strings; keep mediasource_live as "Live" (#9711) (Veeranna Iyle, 2026-10-27 15:52:35 +0530)
+c5d124f96f CHOME-130559: Fix cs/no/sv room calling decline and unmute strings (#9710) (Veeranna Iyle, 2026-10-27 15:51:44 +0530)
+98ba05a027 Revert "CHOME-130816 : For release/aurora-3.1 updated comm lib access token (…" (#9708) (pkamat-crestron, 2026-10-27 14:22:50 +0530)
+a9a0a30323 CHOME-130816 : For release/aurora-3.1 updated comm lib access token (#9707) (pkamat-crestron, 2026-10-27 13:07:49 +0530)
+429c3c4ec5 CHOME-130147: Room page is visible at cameras page bottom (#9696) (Justin Aloor, 2026-10-27 11:21:23 +0530)
+8368bcbdf5 add missing file (Mike Westendorf, 2026-10-26 12:55:02 -0400)
+93b5faecfc [CHOME-130577] Change PNS url from being read at compile time to being read dynamically at runtime (Mike Westendorf, 2026-10-23 16:50:12 -0400)
