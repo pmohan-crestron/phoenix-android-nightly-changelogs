@@ -1,0 +1,11 @@
+Phoenix Android Nightly – Version 99.4.13-12026102801
+===========================================================
+Generated on:** 2026-10-29 02:03 UTC
+Branch:** develop
+Previous commit SHA:** 94e912debe13b8042516a966f2386bcda5713011
+===========================================================
+
+bca06664c9 Feature/chome [ S3 / S8 ] 128591 whole house lights group sections (#9683) (Sravanth AV, 2026-10-28 13:19:38 -0500)
+f7ebd4f86b CHOME-127576: AGENTS.md: comments, KDoc and test names describe current code (#9714) (Steven Morris, 2026-10-28 11:08:53 -0700)
+4677f64bad CHOME-130557: doorstation, notificationsetting, airmedia, mediamore + update .translation_dump_rev (#9700) (Veeranna Iyle, 2026-10-28 23:13:10 +0530)
+d1dce3fb7e Fix paging tab bar indicator (#9712) (v-amorariu, 2026-10-28 09:09:33 +0200)
