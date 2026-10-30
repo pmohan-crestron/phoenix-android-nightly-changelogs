@@ -1,0 +1,11 @@
+Phoenix Android Nightly – Version 99.4.13-12026102901
+===========================================================
+Generated on:** 2026-10-30 02:04 UTC
+Branch:** develop
+Previous commit SHA:** bca06664c9057623733bce79dbab229944cee513
+===========================================================
+
+7ef01fa031 CHOME-130160 Weather detail screen tests (#9681) (sabtain-khan-crestron, 2026-10-29 14:44:23 -0500)
+4b37d7f969 CHOME-130159 Weather detail screen refresh (TSW/TDT) (#9680) (sabtain-khan-crestron, 2026-10-29 09:21:20 -0500)
+b1942e4f79 Update the rapid home bottom bar navigation bar size. (#9719) (Domuta Darius, 2026-10-29 16:09:52 +0200)
+192d8b9a75 CHOME-130913 - Update the scaling for TSW 770 and 880 panels. (#9715) (Domuta Darius, 2026-10-29 14:14:52 +0200)
