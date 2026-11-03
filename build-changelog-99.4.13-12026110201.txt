@@ -1,0 +1,16 @@
+Phoenix Android Nightly – Version 99.4.13-12026110201
+===========================================================
+Generated on:** 2026-11-03 03:04 UTC
+Branch:** develop
+Previous commit SHA:** fe9812bd3f1234715cc92da91a58842918551a40
+===========================================================
+
+27f550b778 CHOME-125962 Weather search core in weatherlib (#9689) (sabtain-khan-crestron, 2026-11-02 11:20:27 -0600)
+411068fdda [AI: backend-dev | Gate 2 | CHOME-110388] fix: show grey status dot for disabled scheduled events (#9727) (sabtain-khan-crestron, 2026-11-02 11:19:38 -0600)
+87146c6296 Feture/fix computed density for 1580 panels (#9721) (v-amorariu, 2026-11-02 17:43:15 +0200)
+53954542d5 Merge pull request #9728 from CrestronEng/merge-for-hotfix-ETF-628 (Jordan Silver, 2026-11-02 10:14:55 -0500)
+b8774cdf04 translations(CHOME-131017): add new weather detail keys for all locales (#9724) (Veeranna Iyle, 2026-11-02 18:10:39 +0530)
+96d2fff97c translations/CHOME-130979: Add missing Albanian, Ukrainian and Serbian strings (#9720) (Veeranna Iyle, 2026-11-02 09:12:44 +0530)
+90ae8b2133 Merge remote-tracking branch 'origin/hotfix/ETF-628-IntercomRace' into merge-for-hotfix-ETF-628 (jsilver, 2026-10-30 12:04:36 -0400)
+90b0b7634f ETF-628: Wait up to 10s for intercom SIP mode join before first Pyng connect on TSW/TST (jsilver, 2026-10-29 16:38:48 -0400)
+1158c59dcb ETF-628: Fix comm lib race condition causing intercom failures (jsilver, 2026-10-29 08:02:13 -0400)
