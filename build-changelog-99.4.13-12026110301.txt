@@ -1,0 +1,9 @@
+Phoenix Android Nightly – Version 99.4.13-12026110301
+===========================================================
+Generated on:** 2026-11-04 03:02 UTC
+Branch:** develop
+Previous commit SHA:** 27f550b7782130d491ad61eaf910d9198e4e8a9e
+===========================================================
+
+c55e8bb151 CHOME-125962 ClearSavedLocation, coordinate rounding and backup rules (#9690) (sabtain-khan-crestron, 2026-11-03 11:49:59 -0600)
+897083445c CHOME-130977 - Introduce the room details settings option. (#9726) (Domuta Darius, 2026-11-03 16:34:19 +0200)
