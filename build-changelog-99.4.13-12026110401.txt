@@ -1,0 +1,12 @@
+Phoenix Android Nightly – Version 99.4.13-12026110401
+===========================================================
+Generated on:** 2026-11-05 04:55 UTC
+Branch:** develop
+Previous commit SHA:** c55e8bb1513bda1b6b9bf6724303bd6e9c7505d1
+===========================================================
+
+697212e0d6 CHOME-125962 Weather settings UI and search overlay (#9691) (sabtain-khan-crestron, 2026-11-04 20:56:17 -0600)
+1bfa247b10 Merge pull request #9735 from CrestronEng/CHOME-127781-PNS-Settings (Jordan Silver, 2026-11-04 14:09:30 -0500)
+33b4eeffd3 Feature/chome 128593 whole house lights collapse (#9716) (Sravanth AV, 2026-11-04 09:50:51 -0600)
+d098bab239 CHOME-127120: Implement Door Station Call Management (#9722) (m-arif-crestron, 2026-11-04 08:39:11 -0600)
+0096912d17 CHOME-127781 - Sync push notification preferences with the backend (jsilver, 2026-11-03 13:55:14 -0500)
