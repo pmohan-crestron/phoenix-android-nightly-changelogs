@@ -1,0 +1,25 @@
+Phoenix Android Nightly – Version 99.4.14-12026110501
+===========================================================
+Generated on:** 2026-11-06 03:04 UTC
+Branch:** develop
+Previous commit SHA:** c55e8bb1513bda1b6b9bf6724303bd6e9c7505d1
+===========================================================
+
+9c9889d9ad Merge pull request #9745 from CrestronEng/revert-9722-CHOME-127120 (Jordan Silver, 2026-11-05 18:02:22 -0500)
+f47083d242 Revert "CHOME-127120: Implement Door Station Call Management (#9722)" (m-arif-crestron, 2026-11-05 08:45:41 -0600)
+f5000c2a30 Merge pull request #9736 from CrestronEng/CHOME-129500-1580portrait-changes (Jordan Silver, 2026-11-05 09:45:21 -0500)
+ea07be4125 CHOME-128797 fix: Music Groups list only includes rooms with audio sources (#9741) (Tanu Priya Mishra, 2026-11-05 19:23:42 +0530)
+697212e0d6 CHOME-125962 Weather settings UI and search overlay (#9691) (sabtain-khan-crestron, 2026-11-04 20:56:17 -0600)
+1bfa247b10 Merge pull request #9735 from CrestronEng/CHOME-127781-PNS-Settings (Jordan Silver, 2026-11-04 14:09:30 -0500)
+33b4eeffd3 Feature/chome 128593 whole house lights collapse (#9716) (Sravanth AV, 2026-11-04 09:50:51 -0600)
+d098bab239 CHOME-127120: Implement Door Station Call Management (#9722) (m-arif-crestron, 2026-11-04 08:39:11 -0600)
+0096912d17 CHOME-127781 - Sync push notification preferences with the backend (jsilver, 2026-11-03 13:55:14 -0500)
+ef306adb33 Merge remote-tracking branch 'origin/CHOME-129500-1580portrait-changes' into CHOME-129500-1580portrait-changes (jsilver, 2026-11-02 13:53:38 -0500)
+889de1037c Adjust back and do not disturb buttons (jsilver, 2026-11-02 13:08:04 -0500)
+b0df78599b Increase tile, header, and quick action sizing for 1580 portrait home and room pages (jsilver, 2026-10-20 17:03:45 -0400)
+e67c339b11 Add Breakpoint for 1580 for home and room pages in portrait mode (jsilver, 2026-10-19 15:45:41 -0400)
+4e3310792a Add Breakpoint for 1580 for home and room pages in portrait mode (jsilver, 2026-10-19 13:49:18 -0400)
+3704e43451 Increase tile, header, and quick action sizing for 1580 portrait home and room pages (jsilver, 2026-10-20 17:03:45 -0400)
+ea631c374f Add Breakpoint for 1580 for home and room pages in portrait mode (jsilver, 2026-10-19 15:45:41 -0400)
+12c1782c6f Add Breakpoint for 1580 for home and room pages in portrait mode (jsilver, 2026-10-19 13:49:18 -0400)
+53e5e49e3a Merge branch 'develop' of https://github.com/Crestron/mobile-android-phoenix into develop (jsilver, 2026-10-15 11:01:56 -0400)
