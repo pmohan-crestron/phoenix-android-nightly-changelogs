@@ -1,0 +1,9 @@
+Phoenix Android Nightly – Version 99.4.14-12026111102
+===========================================================
+Generated on:** 2026-11-12 03:04 UTC
+Branch:** develop
+Previous commit SHA:** cba4faf3e5c428af5d065d7385f43dc97dd60d93
+===========================================================
+
+c3255240a2 CHOME-125962 Advanced Settings weather row (#9692) (sabtain-khan-crestron, 2026-11-11 14:56:17 -0600)
+40c8708be0 MOBILE-643 Fix for Android PR Pipeline builds. (#9754) (Scott Thompson, 2026-11-11 09:50:42 -0600)
