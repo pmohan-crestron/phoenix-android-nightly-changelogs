@@ -1,0 +1,12 @@
+Phoenix Android Nightly – Version 99.4.14-12026111301
+===========================================================
+Generated on:** 2026-11-14 03:05 UTC
+Branch:** develop
+Previous commit SHA:** c3255240a236b6a5a2f20e5269a57cfcc97380a1
+===========================================================
+
+b381a633db [S6/S9] Feature/chome 128594 whole house lights room card (#9717) (Sravanth AV, 2026-11-13 13:13:57 -0600)
+a911016d8c CHOME-131322 Rapid Shades: legacy tap/hold ramp behaviour, tilt-capability 5-button row, tilt percent (#9758) (Sravanth AV, 2026-11-13 09:52:26 -0600)
+7f301eea53 CHOME-117675: Add FEATURE_FLAG_AIRMEDIA to Nightly, Beta, and RC flag files (#9747) (Steven Morris, 2026-11-13 06:50:13 -0800)
+5576d59e6e Hide empty room groups from the rapid rooms tab bar. (#9761) (Domuta Darius, 2026-11-12 16:41:27 +0200)
+83181d2080 CHOME-125962 Weather strings cleanup and previews (#9693) (sabtain-khan-crestron, 2026-11-11 22:12:01 -0600)
