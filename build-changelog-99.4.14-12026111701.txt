@@ -1,0 +1,14 @@
+Phoenix Android Nightly – Version 99.4.14-12026111701
+===========================================================
+Generated on:** 2026-11-18 03:06 UTC
+Branch:** develop
+Previous commit SHA:** b381a633dbd5f3365c121777fe6c75e597d9b83a
+===========================================================
+
+d6fd098ee5 CHOME-121183 Hide low-battery icon on offline shades (#9771) (Sravanth AV, 2026-11-17 20:34:13 -0600)
+d23e40eada CHOME-132219: Update mobileMinSdk version to 31 in build.gradle (#9772) (m-arif-crestron, 2026-11-17 15:20:47 -0600)
+6f4d3efaa3 CHOME-132227: updated QE base URL for NotificationAPIService (#9767) (m-arif-crestron, 2026-11-17 10:29:33 -0600)
+b5a5210e6e Fix crash when a room image fails to load after a system change (#9755) (v-amorariu, 2026-11-17 15:32:01 +0200)
+b6f69c9e8c Feature/add database downgrade recovery (#9751) (v-amorariu, 2026-11-17 09:58:44 +0200)
+e3036074f3 Fix the rapid rooms sticky headers gap. (#9752) (Domuta Darius, 2026-11-16 17:12:53 +0200)
+fd9b8489b4 Fix the rapid rooms tab bar scrolling. (#9756) (Domuta Darius, 2026-11-16 13:04:23 +0200)
