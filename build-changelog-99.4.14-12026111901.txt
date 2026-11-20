@@ -1,0 +1,12 @@
+Phoenix Android Nightly – Version 99.4.14-12026111901
+===========================================================
+Generated on:** 2026-11-20 03:06 UTC
+Branch:** develop
+Previous commit SHA:** 67d2bc048542aaaf0553889329c0d1c54979daad
+===========================================================
+
+6656dd9e13 Update compose panel scaling. (#9783) (Domuta Darius, 2026-11-19 21:22:38 +0200)
+1cf51c51a5 CHOME-126269: Crash on uncaught exceptions in cist/debug builds (#9782) (Sravanth AV, 2026-11-19 11:54:55 -0600)
+b215c94c2b CHOME-125962 Weather detail: animations, frosted-glass cards and full-screen layout (#9703) (sabtain-khan-crestron, 2026-11-19 07:47:13 -0600)
+97e38f4872 CHOME-128259 - Update the rapid home and room portrait mode scrolling. (#9749) (Domuta Darius, 2026-11-19 14:38:26 +0200)
+239b4c3e4a Share panel size class detection between scaling and layouts (#9774) (Domuta Darius, 2026-11-19 12:43:10 +0200)
