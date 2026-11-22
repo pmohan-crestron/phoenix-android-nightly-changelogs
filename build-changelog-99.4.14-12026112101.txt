@@ -1,0 +1,11 @@
+Phoenix Android Nightly – Version 99.4.14-12026112101
+===========================================================
+Generated on:** 2026-11-22 03:02 UTC
+Branch:** develop
+Previous commit SHA:** 6656dd9e132f3ae0111acba3a94097e6e6c28c38
+===========================================================
+
+ee45270e07 Mobile-437 Integrate with the new library stack with openssl, the unified BCIP, Signal Transport, and comm lib (#9578) (Scott Thompson, 2026-11-20 10:12:44 -0600)
+fbc6a823b4 CHOME-132748: AGENTS.md: no @Mockable with Mockito 5; read use cases return a stream or a value (#9788) (Steven Morris, 2026-11-20 07:44:16 -0800)
+a458a98b51 CHOME-132726 - Update the rapid rooms toolbar minimum width. (#9784) (Domuta Darius, 2026-11-20 13:48:36 +0200)
+1336fd76bc CHOME-132253 - Rapid room widget updates.  (#9775) (Domuta Darius, 2026-11-20 13:41:11 +0200)
