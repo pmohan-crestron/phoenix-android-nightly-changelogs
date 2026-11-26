@@ -1,0 +1,22 @@
+Phoenix Android Nightly – Version 99.4.14-12026112501
+===========================================================
+Generated on:** 2026-11-26 03:02 UTC
+Branch:** develop
+Previous commit SHA:** 7b45d26a0e8f328eacee1db66604ae341c65a2e6
+===========================================================
+
+a0dc431ca5 [ S8/S9 ] Feature/chome 128596 whole house lights room reorder v2 (#9757) (Sravanth AV, 2026-11-25 18:06:49 -0600)
+20d7427aa9 CHOME-132232: Add the demo-mode state, its Source and DemoModeLibModule (#9803) (Steven Morris, 2026-11-25 11:56:16 -0800)
+9bcd7fa48a Fix weather module unit tests (#9817) (v-amorariu, 2026-11-25 15:08:08 +0200)
+514fa1f967 Update QueryRapidRoomServicesIntercomTileTest.kt (#9816) (v-amorariu, 2026-11-25 15:07:25 +0200)
+f41f026ec4 fix rapidlights module unit tests (#9815) (v-amorariu, 2026-11-25 15:06:31 +0200)
+e5ea5f8340 Fix touchpanelsettings module unit tests (#9814) (v-amorariu, 2026-11-25 15:04:24 +0200)
+1b101136d0 Fix rapidrooms module unit tests (#9813) (v-amorariu, 2026-11-25 14:58:10 +0200)
+2aa5dbba82 Find RapidFeatureToolbar back button by test tag in compose test (#9812) (v-amorariu, 2026-11-25 14:51:26 +0200)
+189b09120e Fix airmedialib module unit tests (#9811) (v-amorariu, 2026-11-25 14:50:36 +0200)
+85cc95941d Fix CrestronWrapperModuleVerifyKoinTest for PyngConnectionController deviceInfoSupplier (#9810) (v-amorariu, 2026-11-25 14:46:16 +0200)
+c745725263 Fix TswSipLibModule Koin tests for WaitForIntercomSipMode (#9809) (v-amorariu, 2026-11-25 14:43:43 +0200)
+d36ac0a402 Make DateFormatUseCaseImplTest independent of the machine's timezone (#9808) (v-amorariu, 2026-11-25 14:40:57 +0200)
+d734ea48a5 [CHOME-132485] Enable Volume, Mute, and Power toolbar controls while remote is open (#9800) (Tanu Priya Mishra, 2026-11-25 14:04:18 +0530)
+7d8e92e93a Exclude hidden-room doors from Home Access tile Close all (#9799) (v-amorariu, 2026-11-25 10:01:08 +0200)
+025a52dd9f CHOME-132254 - Remove the rapid rooms five inch panel favorite group. (#9801) (Domuta Darius, 2026-11-25 08:10:29 +0200)
