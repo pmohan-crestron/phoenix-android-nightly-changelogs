@@ -1,0 +1,10 @@
+Phoenix Android Nightly – Version 99.4.14-12026112601
+===========================================================
+Generated on:** 2026-11-27 03:02 UTC
+Branch:** develop
+Previous commit SHA:** a0dc431ca571afcd0578323c7409946ae5cda321
+===========================================================
+
+554f7227a5 CHOME-133242: Weather, Rapid shades/videos and Whole House Lights strings (#9802) (Veeranna Iyle, 2026-11-26 16:36:37 +0530)
+d8d90f4ded CHOME-92774 - Change image advanced user password prompt on rapid home and room. (#9819) (Domuta Darius, 2026-11-26 10:01:06 +0200)
+876c71ce06 Fix empty Home screen caused by missing intercom device state (#9818) (v-amorariu, 2026-11-26 09:39:09 +0200)
